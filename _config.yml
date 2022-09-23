@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : ""
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "maryml"
+  youtube          : "https://www.youtube.com/channel/UC6SbjaPWFVHVLecEvoHqS6A"
   wikipedia        :
 
 
