@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Information Science, Drexel University (in progress)
+* Master of Science in Computer Information System, Boston University, 2020
+* Associate Degree in Nursing, Our Lady of Lourdes School of Nursing
+* Master of Philosophy in Physics, Moi University (Kenya)
+* BSc (Honors)
 
 Work experience
 ======
@@ -27,6 +29,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+<!--
 Skills
 ======
 * Skill 1
@@ -34,7 +37,8 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 
+<--!
 
 Publications
 ======
@@ -54,6 +58,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666)
+
+You can download my full CV from here.
