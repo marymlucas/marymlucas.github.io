@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mary M Lucas"
   avatar           : "profile.PNG"
-  bio              : ""
-  location         : ""
+  bio              : "Doctoral student at Drexel University College of Computing and Informatics"
+  #location         : ""
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
