@@ -27,5 +27,8 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 
 ### 2020
 
-- September 2020: Completed the Masters in Computer Information Systems (conc. Health Informatics, Data Analytics)
-  - Received the BU MET 2020 [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/) in Computer Information Systems
+- September 2020: Received the Master of Science in Computer Information Systems (conc. Health Informatics, Data Analytics) from Boston University
+  - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/) in Computer Information Systems
+
+### 2000
+- December 2000: Received the Master of Philosophy in Physics from Moi University, Kenya.
