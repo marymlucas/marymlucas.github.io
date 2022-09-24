@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mary M. Lucas"
   avatar           : "profile.PNG"
-  bio              : "Doctoral student at Drexel University (College of Computing and Informatics) <br> <br> NIH AIM-AHEAD Research Fellow"
+  bio              : "Doctoral student at <a style='color: black;' href='https://drexel.edu/cci/'>Drexel University</a> <br> <br> NIH AIM-AHEAD Research Fellow"
   #location         : ""
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
