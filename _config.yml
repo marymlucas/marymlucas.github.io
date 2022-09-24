@@ -7,7 +7,7 @@
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Mary M Lucas"
+title                    : "Mary M. Lucas"
 title_separator          : "-"
 name                     : &name "Mary Lucas"
 description              : &description "My personal website"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mary M Lucas"
   avatar           : "profile.PNG"
-  bio              : "Doctoral student at Drexel University (College of Computing and Informatics)"
+  bio              : "Doctoral student at Drexel University (College of Computing and Informatics) <br> NIH AIM-AHEAD Research Fellow"
   #location         : ""
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
