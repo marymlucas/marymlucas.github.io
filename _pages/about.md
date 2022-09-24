@@ -15,7 +15,7 @@ I'm also affiliated with the [Boston University Health Informatics Research Lab 
 Prior to my healthcare experience I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
 
 ## Updates
----------------------
+
 August 2021: Awarded the NIH AIM-AHEAD Research Fellowship (Cohort 1)
 August 2021: Became Managing Editor for the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666)
 September 2021: Started my PhD program in Information Science at Drexel University's College of Computing and Informatics
