@@ -19,8 +19,13 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 ### 2022
 
 - July 2022: Awarded the [NIH AIM-AHEAD](https://aim-ahead.net/) Research Fellowship (Cohort 1)
-- July 2022: Became Managing Editor for the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666)
+- July 2022: Joined the editorial board of the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666) as Managing Editor
 
 ### 2021
 
 - September 2021: Started my PhD studies in Information Science at Drexel University's College of Computing and Informatics
+
+### 2020
+
+- September 2020: Completed the Masters in Computer Information Systems (conc. Health Informatics, Data Analytics)
+  - Received the BU MET 2020 [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/) in Computer Information Systems
