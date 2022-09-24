@@ -27,11 +27,13 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 
 ### 2020
 
-- September 2020: Received the Master of Science in Computer Information Systems (conc. Health Informatics, Data Analytics) from Boston University
+- May 2020: Received the Master of Science in Computer Information Systems (conc. Health Informatics, Data Analytics) from Boston University
   - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/) in Computer Information Systems
 
 ### 2007
 - May 2007: Received the Diploma in Nursing from Our Lady of Lourdes School of Nursing, Camden NJ.
+  - Awarded the 2007 Vincent T. McDermott Award for Excellence in Medical Nursing
+  - Awarded the 2007 Anthony Z. Vircadi Award for Excellence in Clinical Obstetrical Nursing
 
 ### 2000
 - December 2000: Received the Master of Philosophy in Physics from Moi University, Kenya.
