@@ -18,4 +18,4 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 
 - July 2022: Awarded the NIH AIM-AHEAD Research Fellowship (Cohort 1)
 - July 2022: Became Managing Editor for the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666)
-- September 2021: Started my PhD program in Information Science at Drexel University's College of Computing and Informatics
+- September 2021: Started my PhD studies in Information Science at Drexel University's College of Computing and Informatics
