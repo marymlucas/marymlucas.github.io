@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Information Science at [Drexel University](https://drexel.edu/cci/) College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/). My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling, AI bias and fairness, and health disparities/equity. I bring to this work many years of clinical experience as an emergency and trauma registered nurse working both in the US and in New Zealand.
+I am a PhD student in Information Science at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"}. My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling, AI bias and fairness, and health disparities/equity. I bring to this work many years of clinical experience as an emergency and trauma registered nurse working both in the US and in New Zealand.
 
-I'm also affiliated with the [Boston University Health Informatics Research Lab (MET College)](https://www.bu.edu/met/). 
+I'm also affiliated with the [Boston University Health Informatics Research Lab (MET College)](https://www.bu.edu/met/){:target="_blank"}. 
 
 Prior to my experience in the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
 
@@ -19,7 +19,7 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 ### 2022
 
 - July 2022: Awarded the [NIH AIM-AHEAD](https://aim-ahead.net/) Research Fellowship (Cohort 1)
-- July 2022: Joined the editorial board of the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666) as Managing Editor
+- July 2022: Joined the editorial board of the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} as Managing Editor
 
 ### 2021
 
@@ -28,7 +28,7 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 ### 2020
 
 - May 2020: Received the Master of Science in Computer Information Systems (conc. Health Informatics, Data Analytics) from Boston University
-  - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/) in Computer Information Systems
+  - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/){:target="_blank"} in Computer Information Systems
 
 ### 2007
 - May 2007: Received the Diploma in Nursing from Our Lady of Lourdes School of Nursing, Camden NJ.
