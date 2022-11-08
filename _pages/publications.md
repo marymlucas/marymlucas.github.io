@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publications are also available on my [Google Scholar](https://scholar.google.com/citations?user=CFDaWyUAAAAJ&hl=en)
+My publications are also available on my [Google Scholar](https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en)
 
 ### Recent Publications
 
