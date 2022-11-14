@@ -23,7 +23,7 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 
 ### 2021
 
-- September 2021: Started my PhD studies in Information Science at Drexel University's College of Computing and Informatics
+- September 2021: Joined Drexel University as a PhD student and graduate research assistant in the [College of Computing and Informatics](https://drexel.edu/cci/){:target="_blank"}.
 
 ### 2020
 
