@@ -8,4 +8,4 @@ author_profile: true
 
 ### Recent Service
 
-Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666)
+Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
