@@ -16,6 +16,10 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 
 ## Updates
 
+### 2023
+- April 2023: Our paper "Resampling for Mitigating Bias in Predictive Model For Substance Use Disorder Treatment Completion" has been accepted for the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the IEEE International Conference on Healthcare Informatics (IEEE-ICHI) to be held in Houston, TX June 26-29 2023.
+
+
 ### 2022
 
 - July 2022: Awarded the [NIH AIM-AHEAD](https://aim-ahead.net/){:target="_blank"} Research Fellowship (Cohort 1)
