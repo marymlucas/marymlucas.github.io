@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Information Science at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"}. My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling, AI bias and fairness, and health disparities/equity. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
+I am a PhD student in Information Science at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Lab. My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling, AI bias and fairness, and health disparities/equity. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
 
 I'm also affiliated with the [Boston University Health Informatics Research Lab (MET College)](https://www.bu.edu/met/){:target="_blank"}. 
 
@@ -17,7 +17,7 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 ## Updates
 
 ### 2023
-- April 2023: Our paper "Resampling for Mitigating Bias in Predictive Model For Substance Use Disorder Treatment Completion" has been accepted for the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/) to be held in Houston, TX June 26-29 2023.
+- April 2023: Our paper has been accepted for the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/) to be held in Houston, TX June 26-29 2023.
 
 
 ### 2022
