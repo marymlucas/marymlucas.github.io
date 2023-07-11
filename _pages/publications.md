@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Conferences / Workshops
+### Refereed Conference / Workshop Papers
 
 **Mary M. Lucas**, Chia-Hsuan Chang, Christopher C. Yang. "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion".
 International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/){:target="_blank"}, 2023.
