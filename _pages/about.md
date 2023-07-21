@@ -17,6 +17,7 @@ Prior to my experience in the healthcare field I taught undergraduate and gradua
 ## Updates
 
 ### 2023
+- July 2023: Looking forward to presenting our poster "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes" at the annual AIM-AHEAD meeting in Bethesda, MD in August.
 - June 2023: Presented our work on resampling for bias mitigation at the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/){:target="_blank"}, Houston, TX.
 
 
