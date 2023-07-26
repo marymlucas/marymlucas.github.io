@@ -10,7 +10,7 @@ main:
     url: /professional-service/
 
   - title: "Contact"
-  #  url: /lets-connect/ 
+    url: /lets-connect/ 
 
   #- title: "Talks"
   #  url: /talks/    
