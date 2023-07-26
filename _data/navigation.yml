@@ -9,6 +9,9 @@ main:
   - title: "Service"
     url: /professional-service/
 
+  - title: "Contact"
+  #  url: /lets-connect/ 
+
   #- title: "Talks"
   #  url: /talks/    
 
