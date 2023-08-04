@@ -14,7 +14,7 @@ International Workshop on Ethics and Bias of Artificial Intelligence in Clinical
 Ji, L., Li, Z., **Lucas, M.**, Vodenska, I., Chitkushev, L., Zhang, G.L. (2022). "Pregnancy Outcomes in Women with Pregestational Diabetes." In: Zlateva, T., Goleva, R. (eds) *Computer Science and Education in Computer Science. CSECS 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 450. Springer, Cham.* [https://doi.org/10.1007/978-3-031-17292-2_10](https://doi.org/10.1007/978-3-031-17292-2_10){:target="_blank"}
 
 
-### Posters
+### Poster Presentations
 
 **Mary M. Lucas**, Christopher C. Yang, and Mario Schootman. "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes", presented at *NIH AIM-AHEAD Annual Meeting 2023*. Rockville, MD.
 
