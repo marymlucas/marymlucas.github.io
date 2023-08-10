@@ -16,9 +16,11 @@ Ji, L., Li, Z., **Lucas, M.**, Vodenska, I., Chitkushev, L., Zhang, G.L. (2022).
 
 ### Poster Presentations
 
-**Mary M. Lucas**, Christopher C. Yang, and Mario Schootman. "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes", presented at *NIH AIM-AHEAD Annual Meeting 2023*. Rockville, MD.
+**Mary M. Lucas**, Christopher C. Yang, and Mario Schootman. "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes", presented at *NIH AIM-AHEAD Annual Meeting 2023*. Rockville, MD. 
+[https://doi.org/10.6084/m9.figshare.23929128.v1](https://doi.org/10.6084/m9.figshare.23929128.v1){:target="_blank"}
 
 Prachiti Aras, Guanglan Zhang, **Mary Lucas**, Reza Rawassizadeh, Irena Vodenska, and Lou Chitkushev. "Quality Assessment of Inpatient Medical Claim Data," presented at *IEEE International Conference on Bioinformatics and Biomedicine 2020 (BIBM 2020)*.
+
 
 ----------------------------
 
