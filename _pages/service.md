@@ -14,4 +14,6 @@ Managing Editor, [Journal of Healthcare Informatics Research](https://www.spring
 
 ### Past
 
+Scientific Reviewer: [AIM-AHEAD and NCATS Training Program](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){:target="_blank"}.
+
 Co-organizer, [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
