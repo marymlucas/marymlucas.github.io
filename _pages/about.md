@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling for diagnostic and prognostic applications, AI bias and fairness, and health disparities / equity. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
+I am a PhD student at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling for diagnostic and prognostic applications, large language models (LLMs) and clinical reasoning, AI bias and fairness, and health disparities / equity. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
 
 I'm also affiliated with the [Boston University Health Informatics Research Lab (MET College)](https://www.bu.edu/met/){:target="_blank"}. 
 
-Prior to my experience in the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
+Prior to venturing into the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
 
 ## Updates
 
