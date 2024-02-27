@@ -8,7 +8,7 @@ author_profile: true
 
 ### Current
 
-Organizing Committee, [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, at the [IEEE 12th International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+Organizing Committee, [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, at the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
 Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} (2022 - present)
 
