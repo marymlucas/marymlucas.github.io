@@ -32,19 +32,15 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 - July 2022: Awarded the [NIH AIM-AHEAD](https://aim-ahead.net/){:target="_blank"} Research Fellowship (Cohort 1)
 - July 2022: Joined the editorial board of the [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} as Managing Editor
 
-### 2021
+### 2021 and prior
 
 - September 2021: Joined Drexel University as a PhD student and graduate research assistant in the [College of Computing and Informatics](https://drexel.edu/cci/){:target="_blank"}.
-
-### 2020
 
 - May 2020: Received the Master of Science in Computer Information Systems (conc. Health Informatics, Data Analytics) from Boston University
   - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/){:target="_blank"} in Computer Information Systems
 
-### 2007
 - May 2007: Received the Diploma in Nursing from Our Lady of Lourdes School of Nursing, Camden NJ.
   - Awarded the 2007 Vincent T. McDermott Award for Excellence in Medical Nursing
   - Awarded the 2007 Anthony Z. Vircadi Award for Excellence in Clinical Obstetrical Nursing
 
-### 2000
 - December 2000: Received the Master of Philosophy in Physics from Moi University, Kenya.
