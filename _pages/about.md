@@ -19,7 +19,7 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 ### 2024
 - Mar 2024: Excited to be co-author on two papers from our lab accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, Orlando, FL, June 2024.
 - Jan 2024: Co-author with collaborators from UPenn, Howard U, and Villanova U, on a paper - "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature" (*Latrice Landry, Mary Lucas, Anietie Andy, Ebelechukwu Nwafor*), accepted for the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
-- Jan 2024: Our paper on disparities in presentation and initiation of anti-VEGF treatment in patients with retinal vein occlusions, work in collaboration with the [Vickie & Jack Faber Vision Research Center of Wills Eye Hospital](https://www.willseye.org/ophthalmology-informatics/){:target="_blank"} has been accepted for publication in the Opthalmology Retina. 
+- Jan 2024: Our paper on disparities in presentation and initiation of anti-VEGF treatment in patients with retinal vein occlusions, work in collaboration with the [Vickie & Jack Faber Vision Research Center at Wills Eye Hospital](https://www.willseye.org/ophthalmology-informatics/){:target="_blank"}, has been accepted for publication in Opthalmology:R: Retina, a journal of the American Academy of Opthalmology. 
 
 ### 2023
 - Sep 2023: Honored to be selected as a recipient of the [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} to attend the ECOG-ACRIN Fall 2023 Group Meeting, Washington, DC.
