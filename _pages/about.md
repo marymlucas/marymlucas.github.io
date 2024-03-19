@@ -17,7 +17,8 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 ## Updates
 
 ### 2024
-- Jan 2024: Our paper "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature" (*Latrice Landry, Mary Lucas, Anietie Andy, Ebelechukwu Nwafor*), has been accepted for the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
+- Mar 2024: Excited to co-author two papers from our lab accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, to be held in Orlando, FL in June 2024.
+- Jan 2024: Co-author with collaborators from UPenn, Howard U, and Villanova U, on a paper - "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature" (*Latrice Landry, Mary Lucas, Anietie Andy, Ebelechukwu Nwafor*), accepted for the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
 
 ### 2023
 - Sep 2023: Honored to be selected as a recipient of the [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} to attend the ECOG-ACRIN Fall 2023 Group Meeting, Washington, DC.
