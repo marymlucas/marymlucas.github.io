@@ -11,13 +11,15 @@ Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Les
 
 ### Peer Reviewed Conference / Workshop Papers
 
-**Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang, Jacqueline E. Braughton, Quyen M. Ngo, "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion"
+**Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang (2024). Jacqueline E. Braughton, Quyen M. Ngo (), "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion"
+
 Accepted: 2024 IEEE 11th International Conference on Healthcare Informatics (ICHI), Orlando, FL, [doi: 10.48550/arXiv.2404.03833](https://doi.org/10.48550/arXiv.2404.03833){:target="_blank"}
 
-Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang, "Classifying Cancer Stage with Open-Source Clinical Large Language Models"
+Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang (2024). "Classifying Cancer Stage with Open-Source Clinical Large Language Models"
+
 Accepted: 2024 IEEE 11th International Conference on Healthcare Informatics (ICHI), Orlando, FL, [doi: 10.48550/arXiv.2404.01589](https://doi.org/10.48550/arXiv.2404.01589){:target="_blank"}
 
-**M. M. Lucas**, C. -H. Chang and C. C. Yang, "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI), Houston, TX, USA, 2023, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
+**M. M. Lucas**, C. -H. Chang and C. C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI), Houston, TX, USA, 2023, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
 
 Ji, L., Li, Z., **Lucas, M.**, Vodenska, I., Chitkushev, L., Zhang, G.L. (2022). "Pregnancy Outcomes in Women with Pregestational Diabetes", In: Zlateva, T., Goleva, R. (eds) *Computer Science and Education in Computer Science. CSECS 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 450. Springer, Cham.* [https://doi.org/10.1007/978-3-031-17292-2_10](https://doi.org/10.1007/978-3-031-17292-2_10){:target="_blank"}
 
