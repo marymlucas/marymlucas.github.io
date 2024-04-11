@@ -17,7 +17,7 @@ Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Les
 Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang (2024). "Classifying Cancer Stage with Open-Source Clinical Large Language Models".
 *Accepted*: 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, [doi: 10.48550/arXiv.2404.01589](https://doi.org/10.48550/arXiv.2404.01589){:target="_blank"}
 
-**M. M. Lucas**, C. -H. Chang and C. C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI), Houston, TX, USA, 2023, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
+**M. M. Lucas**, C. -H. Chang and C. C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 11th IEEE International Conference on Healthcare Informatics (IEEE ICHI), Houston, TX, USA, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
 
 Ji, L., Li, Z., **Lucas, M.**, Vodenska, I., Chitkushev, L., Zhang, G.L. (2022). "Pregnancy Outcomes in Women with Pregestational Diabetes", In: Zlateva, T., Goleva, R. (eds) *Computer Science and Education in Computer Science. CSECS 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 450. Springer, Cham.* [https://doi.org/10.1007/978-3-031-17292-2_10](https://doi.org/10.1007/978-3-031-17292-2_10){:target="_blank"}
 
