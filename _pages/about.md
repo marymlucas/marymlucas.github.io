@@ -25,9 +25,12 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
   - Our paper on disparities in presentation and initiation of anti-VEGF treatment in patients with retinal vein occlusions, work in collaboration with the [Vickie & Jack Faber Vision Research Center at Wills Eye Hospital](https://www.willseye.org/research-2/){:target="_blank"}, has been accepted for publication in Opthalmology® Retina, a journal of the American Academy of Opthalmology. 
 
 ### 2023
-- Sep 2023: Awarded the [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} to attend the ECOG-ACRIN Fall 2023 Group Meeting, Washington, DC.
-- Aug 2023: Presented a poster "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes" at the second [NIH AIM-AHEAD](https://aim-ahead.net/){:target="_blank"} Annual Meeting, Rockville, MD.
-- June 2023: Presented our work on resampling for bias mitigation at the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/){:target="_blank"}, Houston, TX.
+- Sep 2023: 
+  - Awarded the [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} to attend the ECOG-ACRIN Fall 2023 Group Meeting, Washington, DC.
+- Aug 2023: 
+  - Presented a poster "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes" at the second [NIH AIM-AHEAD](https://aim-ahead.net/){:target="_blank"} Annual Meeting, Rockville, MD.
+- June 2023: 
+  - Presented our work on resampling for bias mitigation at the first International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) at the [IEEE International Conference on Healthcare Informatics (IEEE-ICHI)](https://ieeeichi.github.io/ICHI2023/){:target="_blank"}, Houston, TX.
 
 
 ### 2022
