@@ -13,9 +13,9 @@ author_profile: true
 {: .grey}
 
 ### 2024
-Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation. (*Accepted*)
-{: .blue}
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, Aaron Y. Lee, Cecilia S. Lee, Russ Van Gelder, Alice Lorch, Joan W. Miller, Suzann Pershing, Jeffrey Goldberg. "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis", Ophthalmology Retina (2024) (*In Press*), [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
+{: .blue}
+Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation. (*Accepted*)
 {: .blue}
 Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." *Accepted*: 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT.
 {: .black}
