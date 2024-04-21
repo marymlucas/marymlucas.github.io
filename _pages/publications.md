@@ -10,7 +10,7 @@ author_profile: true
 - Peer Reviewed Conference / Workshop Papers
 {: .black}
 - Posters and Misc.
-{.grey}
+{: .grey}
 
 ### 2024
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, Aaron Y. Lee, Cecilia S. Lee, Russ Van Gelder, Alice Lorch, Joan W. Miller, Suzann Pershing, Jeffrey Goldberg. "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis", Ophthalmology Retina (2024) (*In Press*), [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
