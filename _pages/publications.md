@@ -10,7 +10,7 @@ author_profile: true
 - Peer Reviewed Conference / Workshop Papers
 {: .black}
 - Posters and Misc.
-{: .darkgrey}
+{: .grey}
 
 ### 2024
 Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation. (*Accepted*)
