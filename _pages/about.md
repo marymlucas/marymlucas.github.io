@@ -52,9 +52,9 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
     - Awarded the 2020 BU MET [Award for Excellence in Graduate Study](https://www.bu.edu/met/about/deans-welcome/awards/){:target="_blank"} in Computer Information Systems
 
 - May 2007: 
-  - Received the Diploma in Nursing from Our Lady of Lourdes School of Nursing, Camden NJ.
+  - Received the Diploma in Nursing from [Our Lady of Lourdes School of Nursing](https://lourdesnursingschool.org/){:target="_blank"}, Camden NJ.
     - Awarded the 2007 Vincent T. McDermott Award for Excellence in Medical Nursing
     - Awarded the 2007 Anthony Z. Vircadi Award for Excellence in Clinical Obstetrical Nursing
 
 - December 2000: 
-  - Received the Master of Philosophy in Physics from Moi University, Kenya.
+  - Received the Master of Philosophy in Physics from Moi University, Chepkoilel Campus (https://www.uoeld.ac.ke/){:target="_blank"}, Kenya.
