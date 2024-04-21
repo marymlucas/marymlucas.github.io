@@ -25,7 +25,7 @@ Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang (2024). "
 {: .black}
 
 ### 2023
-**M. M. Lucas**, C. -H. Chang and C. C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 11th IEEE International Conference on Healthcare Informatics (IEEE ICHI), Houston, TX, USA, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
+**Mary M. Lucas**, Chia-Hsuan Chang, and Christopher C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 11th IEEE International Conference on Healthcare Informatics (IEEE ICHI), Houston, TX, USA, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
 {: .black}
 **Mary M. Lucas**, Christopher C. Yang, and Mario Schootman. "Investigating health disparities and AI bias in models to predict development of chronic kidney disease in patients with type II diabetes", presented at *NIH AIM-AHEAD Annual Meeting 2023*. Rockville, MD. 
 [https://doi.org/10.6084/m9.figshare.23929128.v1](https://doi.org/10.6084/m9.figshare.23929128.v1){:target="_blank"}
