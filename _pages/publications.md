@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - Journal Publications
-{: .blue}
+{: .darkblue}
 - Peer Reviewed Conference / Workshop Papers
 {: .black}
 - Posters and Misc.
@@ -14,7 +14,7 @@ author_profile: true
 
 ### 2024
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, Aaron Y. Lee, Cecilia S. Lee, Russ Van Gelder, Alice Lorch, Joan W. Miller, Suzann Pershing, Jeffrey Goldberg. "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis", Ophthalmology Retina (2024) (*In Press*), [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
-{: .blue}
+{: .darkblue}
 
 **Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang, Jacqueline E. Braughton, Quyen M. Ngo (2024). "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion".
 *Accepted*: 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, [doi: 10.48550/arXiv.2404.03833](https://doi.org/10.48550/arXiv.2404.03833){:target="_blank"}
@@ -45,9 +45,9 @@ Prachiti Aras, Guanglan Zhang, **Mary Lucas**, Reza Rawassizadeh, Irena Vodenska
 {: .grey}
 
 Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-level approximation in disordered medium", *Indian journal of pure & applied physics, 42(5), 355-360*.
-{: .blue}
+{: .darkblue}
 
 Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Transition temperature for 4He liquid adsorbed in disordered media", *Indian journal of pure & applied physics, 42(5), 351-354*.
-{: .blue}
+{: .darkblue}
 
 
