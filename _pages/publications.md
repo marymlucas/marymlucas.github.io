@@ -17,7 +17,7 @@ Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Les
 {: .blue}
 Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation. (*Accepted*)
 {: .blue}
-Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." *Accepted (short)*: 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, [https://arxiv.org/abs/2404.13149v1](https://arxiv.org/abs/2404.13149v1){:target="_blank"}
+Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." *Accepted (short paper)*: 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, [doi: 10.48550/arXiv.2404.13149](https://doi.org/10.48550/arXiv.2404.13149){:target="_blank"}
 {: .black}
 **Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang, Jacqueline E. Braughton, Quyen M. Ngo (2024). "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion". *Accepted*: 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, [doi: 10.48550/arXiv.2404.03833](https://doi.org/10.48550/arXiv.2404.03833){:target="_blank"}
 {: .black}
