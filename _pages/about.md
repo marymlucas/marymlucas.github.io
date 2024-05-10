@@ -18,13 +18,13 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ### 2024
 - April 2024: 
-  - Co-author on a paper from our lab accepted to the [22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/){:target="_blank"}, Salt Lake City, UT.
+  - Paper accepted to the [22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/){:target="_blank"}, Salt Lake City, UT.
   - Inducted into the Drexel University chapter of [Upsilon Pi Epsilon](https://upe.acm.org/){:target="_blank"}, the international honor society for the computing and information disciplines. 
 - Mar 2024: 
-  - Co-author on two papers from our lab accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, Orlando, FL.
+  - Two papers accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, Orlando, FL.
   - Invited to attend, with full funding, the ECOG-ACRIN Spring 2024 Group Meeting in Baltimore, MD as an [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} alumnus.
 - Jan 2024: 
-  - Co-author with collaborators from UPenn, Howard U, and Villanova U, on a paper accepted to the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
+  - Paper accepted to the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
   - Our paper on disparities in presentation and initiation of anti-VEGF treatment in patients with retinal vein occlusions, work in collaboration with the [Vickie & Jack Faber Vision Research Center at Wills Eye Hospital](https://www.willseye.org/research-2/){:target="_blank"}, has been accepted for publication in Opthalmology® Retina, a journal of the American Academy of Opthalmology. 
 
 ### 2023
