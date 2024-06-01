@@ -8,6 +8,8 @@ author_profile: true
 
 ### Current
 
+- Co-Chair, JHIR Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+
 - Organizing Committee, [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
 - Organizing Committee, Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
