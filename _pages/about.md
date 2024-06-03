@@ -39,7 +39,7 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 
 ### 2022
-- Dec 2022:
+- December 2022:
   - Received the [Certificate of Achievement in Medical Statistics](https://digitalcredential.stanford.edu/check/780BEE17E73B812F3CBA6F98D6470EE59F72E77077EF839EBFDCB2BB3ACE30D0eW95a2JiOTV6T29FczdBQlY1ZEpQNnUwSUphVWFrWitCNlcvMFgwVEVoRmJKY1Rv){:target="_blank"} from the Stanford Center for Health Education, Stanford Medicine.
 - July 2022: 
   - Awarded the [NIH AIM-AHEAD](https://aim-ahead.net/){:target="_blank"} Research Fellowship (Cohort 1)
