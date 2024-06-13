@@ -13,12 +13,12 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Mary M. Lucas**, Justin Yang, Jon Pomeroy, and Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of American Medical Informatics Association (2024) (*Accepted for Publication*), [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+**Mary M. Lucas**, Justin Yang, Jon Pomeroy, Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of American Medical Informatics Association (2024) (*Accepted for Publication*), [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
 
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, Aaron Y. Lee, Cecilia S. Lee, Russ Van Gelder, Alice Lorch, Joan W. Miller, Suzann Pershing, Jeffrey Goldberg. "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis", Ophthalmology Retina (2024) (*In Press*), [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
 {: .blue}
-Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation. (*Accepted*)
+Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E., Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature. International Journal of Digital Curation (2024). (*Accepted*)
 {: .blue}
 Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." *Accepted (short paper)*: 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, [doi: 10.48550/arXiv.2404.13149](https://doi.org/10.48550/arXiv.2404.13149){:target="_blank"}
 {: .black}
