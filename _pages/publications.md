@@ -13,7 +13,8 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Mary M. Lucas**, Justin Yang, Jon Pomeroy, and Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of American Medical Informatics Association (2024) (*Accepted for Publication*), [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}{: .blue}
+**Mary M. Lucas**, Justin Yang, Jon Pomeroy, and Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of American Medical Informatics Association (2024) (*Accepted for Publication*), [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+{: .blue}
 
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, Aaron Y. Lee, Cecilia S. Lee, Russ Van Gelder, Alice Lorch, Joan W. Miller, Suzann Pershing, Jeffrey Goldberg. "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis", Ophthalmology Retina (2024) (*In Press*), [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
 {: .blue}
