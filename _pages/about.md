@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. 
+I am a doctoral candidate and graduate research assistant at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. 
 
 My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modelling for diagnostic and prognostic applications, health disparities / equity, and AI bias and fairness. I also have a keen interest in the use and implications of large language models (LLMs) in medicine / healthcare. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
 
