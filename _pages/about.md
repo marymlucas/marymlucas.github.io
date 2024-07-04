@@ -18,7 +18,7 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ### 2024
 - May 2024:
-  - Paper [accepted for publication](https://doi.org/10.1093/jamia/ocae131){:target="_blank"} in the Journal of the American Medical Informatics Association (JAMIA).
+  - Paper accepted for publication in the Journal of the American Medical Informatics Association (JAMIA).
 - April 2024: 
   - Paper accepted to the [22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/){:target="_blank"}, Salt Lake City, UT.
   - Inducted into the Drexel University chapter of [Upsilon Pi Epsilon](https://upe.acm.org/){:target="_blank"}, the international honor society for the computing and information disciplines. 
