@@ -20,7 +20,7 @@ Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Les
 {: .blue}
 Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E., "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." International Journal of Digital Curation (2024) (*Accepted*). 
 {: .blue}
-Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). Beyond Self-consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging. In: Finkelstein, J., Moskovitch, R., Parimbelli, E. (eds) Artificial Intelligence in Medicine. AIME 2024. Lecture Notes in Computer Science(), vol 14844. Springer, Cham. https://doi.org/10.1007/978-3-031-66538-7_23
+Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). "Beyond Self-consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging". In: Finkelstein, J., Moskovitch, R., Parimbelli, E. (eds) Artificial Intelligence in Medicine. AIME 2024. Lecture Notes in Computer Science(), vol 14844. Springer, Cham. https://doi.org/10.1007/978-3-031-66538-7_23
 {: .black}
 <!-- Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." Proceedings of the 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, USA, July 9-12, 2024. [doi: 10.48550/arXiv.2404.13149](https://doi.org/10.48550/arXiv.2404.13149){:target="_blank"}
 {: .black} -->
