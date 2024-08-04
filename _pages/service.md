@@ -16,11 +16,11 @@ author_profile: true
 
     - Scientific Reviewer: [AIM-AHEAD Fellowship](https://www.aim-ahead.net/){:target="_blank"} (2024).
 
-    - Co-Chair, [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+    - Co-Chair: [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
-    - Organizing Committee, [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+    - Organizing Committee: [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
-    - Organizing Committee, Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+    - Organizing Committee: Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
 - ### 2023
 
@@ -28,4 +28,4 @@ author_profile: true
 
 - ### 2020 and prior
 
-    - Event organizer, [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
+    - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
