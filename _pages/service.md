@@ -28,4 +28,4 @@ author_profile: true
 
 - ### 2020 and prior
 
-    - Co-organizer, [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
+    - Event organizer, [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
