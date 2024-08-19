@@ -18,7 +18,7 @@ author_profile: true
 
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, IRIS Registry Analytic Center Consortium  (2024). "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis." Ophthalmology Retina, 8(7), 657–665. [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
 {: .blue}
-Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E., "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." International Journal of Digital Curation (2024) (*Accepted*). 
+Landry, L.G., **Lucas, M.**, Andy, A., Nwafor, E. (2024). "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." International Journal of Digital Curation, 18(1), pp.9. [https://doi.org/10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
 {: .black}
 Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). "Beyond Self-consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging". In: Finkelstein, J., Moskovitch, R., Parimbelli, E. (eds) Artificial Intelligence in Medicine. AIME 2024. Lecture Notes in Computer Science(), vol 14844. Springer, Cham. [doi: 10.1007/978-3-031-66538-7_23](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}
 {: .black}
