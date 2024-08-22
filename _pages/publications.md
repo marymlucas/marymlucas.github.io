@@ -13,9 +13,10 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Mary M. Lucas**, Justin Yang, Jon K. Pomeroy, Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of the American Medical Informatics Association (2024). [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+**Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, Volume 31, Issue 9, September 2024, Pages 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
-
+<!-- **Mary M. Lucas**, Justin Yang, Jon K. Pomeroy, Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of the American Medical Informatics Association (2024). [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+{: .blue} -->
 Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, IRIS Registry Analytic Center Consortium  (2024). "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis." Ophthalmology Retina, 8(7), 657–665. [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
 {: .blue}
 Latrice Landry, **Mary Lucas**, Anietie Andy, Ebelechukwu Nwafor (2024). "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." International Journal of Digital Curation, 18(1), pp.9. [https://doi.org/10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
