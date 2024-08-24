@@ -25,10 +25,14 @@ Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). "Beyond Sel
 {: .black}
 <!-- Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." Proceedings of the 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, USA, July 9-12, 2024. [doi: 10.48550/arXiv.2404.13149](https://doi.org/10.48550/arXiv.2404.13149){:target="_blank"}
 {: .black} -->
-**Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang, Jacqueline E. Braughton, Quyen M. Ngo (2024). "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion". Proceedings of the 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, June 3-6, 2024. [doi: 10.48550/arXiv.2404.03833](https://doi.org/10.48550/arXiv.2404.03833){:target="_blank"}
+**M. M. Lucas**, X. Wang, C. -H. Chang, C. C. Yang, J. E. Braughton and Q. M. Ngo, "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion," 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI), Orlando, FL, USA, 2024, pp. 157-166, doi: [10.1109/ICHI61247.2024.00028](https://ieeexplore.ieee.org/document/10628594){:target="_blank"}
 {: .black}
-Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang (2024). "Classifying Cancer Stage with Open-Source Clinical Large Language Models". . Proceedings of the 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, June 3-6, 2024. [doi: 10.48550/arXiv.2404.01589](https://doi.org/10.48550/arXiv.2404.01589){:target="_blank"}
+<!-- **Mary M. Lucas**, Xiaoyang Wang, Chia-Hsuan Chang, Christopher C. Yang, Jacqueline E. Braughton, Quyen M. Ngo (2024). "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion". Proceedings of the 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, June 3-6, 2024. [doi: 10.48550/arXiv.2404.03833](https://doi.org/10.48550/arXiv.2404.03833){:target="_blank"}
+{: .black} -->
+C. -H. Change, **M. M. Lucas**, G. Lu-Yao and C. C. Yang, "Classifying Cancer Stage with Open-Source Clinical Large Language Models," 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI), Orlando, FL, USA, 2024, pp. 76-82, [doi: 10.1109/ICHI61247.2024.00018](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}
 {: .black}
+<!-- Chia-Hsuan Chang, **Mary M. Lucas**, Grace Lu-Yao, Christopher C. Yang (2024). "Classifying Cancer Stage with Open-Source Clinical Large Language Models". . Proceedings of the 12th IEEE International Conference on Health Informatics (IEEE ICHI 2024), Orlando, FL, June 3-6, 2024. [doi: 10.48550/arXiv.2404.01589](https://doi.org/10.48550/arXiv.2404.01589){:target="_blank"}
+{: .black} -->
 
 ### 2023
 **Mary M. Lucas**, Chia-Hsuan Chang, and Christopher C. Yang (2023). "Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion", 11th IEEE International Conference on Healthcare Informatics (IEEE ICHI), Houston, TX, USA, pp. 709-711, [doi: 10.1109/ICHI57859.2023.00128](https://doi.org/10.1109/ICHI57859.2023.00128){:target="_blank"}
