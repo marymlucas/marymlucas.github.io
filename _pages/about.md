@@ -60,4 +60,4 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
     - Awarded the 2007 Anthony Z. Vircadi Award for Excellence in Clinical Obstetrical Nursing
 
 - December 2000: 
-  - Received the Master of Philosophy in Physics from Moi University, [Chepkoilel Campus](https://www.uoeld.ac.ke/){:target="_blank"}, Kenya.
+  - Received the Master of Philosophy in Physics from Moi University, Kenya.
