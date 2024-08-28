@@ -13,7 +13,7 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, Volume 31, Issue 9, September 2024, Pages 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+**Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, 31(9), 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
 <!-- **Mary M. Lucas**, Justin Yang, Jon K. Pomeroy, Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of the American Medical Informatics Association (2024). [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue} -->
