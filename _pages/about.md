@@ -17,6 +17,8 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 ## Updates
 
 ### 2024
+- August 2024:
+  - Paper accepted for publication in JCO Clinical Cancer Informatics, a journal of the American Society for Clinical Oncology (ASCO)
 - May 2024:
   - Paper accepted for publication in the Journal of the American Medical Informatics Association (JAMIA).
 - April 2024: 
