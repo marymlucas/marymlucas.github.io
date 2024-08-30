@@ -13,7 +13,7 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Lucas M. M.**,  Schootman M, Laryea J.A., Orcutt S.T., Li C, Ying J, Rumpel J.A., Yang C.C. (2024). "Bias in prediction models to identify colorectal cancer patients at high risk for readmission after resection", JCO Clinical Cancer Informatics (*Accepted for publication*).{:target="_blank"}
+**Lucas M. M.**,  Schootman M, Laryea J.A., Orcutt S.T., Li C, Ying J, Rumpel J.A., Yang C.C. (2024). "Bias in prediction models to identify colorectal cancer patients at high risk for readmission after resection", JCO Clinical Cancer Informatics (*Accepted for publication*).
 {: .blue}
 **Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, 31(9), 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
