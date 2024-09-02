@@ -18,18 +18,18 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ### 2024
 - August 2024:
-  - Paper accepted for publication in JCO Clinical Cancer Informatics (JCO CCI), a journal of the American Society for Clinical Oncology (ASCO).
+  - Manuscript accepted for publication in JCO Clinical Cancer Informatics (JCO CCI), a journal of the American Society for Clinical Oncology (ASCO).
 - May 2024:
-  - Paper accepted for publication in the Journal of the American Medical Informatics Association (JAMIA).
+  - Manuscript accepted for publication in the Journal of the American Medical Informatics Association (JAMIA).
 - April 2024: 
-  - Paper accepted to the [22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/){:target="_blank"}, Salt Lake City, UT.
+  - Manuscript accepted to the [22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/){:target="_blank"}, Salt Lake City, UT.
   - Inducted into the Drexel University chapter of [Upsilon Pi Epsilon](https://upe.acm.org/){:target="_blank"}, the international honor society for the computing and information disciplines. 
 - Mar 2024: 
-  - Two papers accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, Orlando, FL.
+  - Two manuscripts accepted to the [12th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://ieeeichi2024.github.io/){:target="_blank"}, Orlando, FL.
   - Invited to attend, with full funding, the ECOG-ACRIN Spring 2024 Group Meeting in Baltimore, MD as an [Edith Peterson Mitchell, MD Health Equity Travel Scholarship](https://ecog-acrin.org/research/mentorship/travel-scholarships/){:target="_blank"} alumnus.
 - Jan 2024: 
-  - Paper accepted to the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
-  - Paper accepted for publication in Opthalmology® Retina, a journal of the American Academy of Opthalmology. (Work in collaboration with the [Vickie & Jack Faber Vision Research Center at Wills Eye Hospital](https://www.willseye.org/research-2/){:target="_blank"})
+  - Manuscript accepted to the [18th International Digital Curation Conference](https://dcc.ac.uk/events/idcc24){:target="_blank"}, Edinburgh, Scotland.
+  - Manuscript accepted for publication in Opthalmology® Retina, a journal of the American Academy of Opthalmology. (Work in collaboration with the [Vickie & Jack Faber Vision Research Center at Wills Eye Hospital](https://www.willseye.org/research-2/){:target="_blank"})
 
 ### 2023
 - Sep 2023: 
