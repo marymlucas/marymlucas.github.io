@@ -13,7 +13,7 @@ author_profile: true
 {: .grey}
 
 ### 2024
-**Mary M. Lucas**, Mario Schootman, Jonathan A. Laryea, Sonia T. Orcutt, Chenghui Li, Jun Ying, Jennifer A. Rumpel, Christopher C. Yang, "Bias in Prediction Models to Identify Patients With Colorectal Cancer at High Risk for Readmission After Resection", *JCO Clin Cancer Informatics* **8**, e2300194(2024). [DOI:10.1200/CCI.23.00194](https://ascopubs.org/doi/10.1200/CCI.23.00194){:target="_blank"}
+**Mary M. Lucas**, Mario Schootman, Jonathan A. Laryea, Sonia T. Orcutt, Chenghui Li, Jun Ying, Jennifer A. Rumpel, Christopher C. Yang, "Bias in Prediction Models to Identify Patients With Colorectal Cancer at High Risk for Readmission After Resection", *JCO Clinical Cancer Informatics* **8**, e2300194(2024). [DOI:10.1200/CCI.23.00194](https://ascopubs.org/doi/10.1200/CCI.23.00194){:target="_blank"}
 {: .blue}
 **Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, 31(9), 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
