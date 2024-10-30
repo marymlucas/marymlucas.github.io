@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Ongoing
+## Editorial
 
 - Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} (2022 - present)
 
