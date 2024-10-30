@@ -19,8 +19,8 @@ author_profile: true
 
 ## Scientific Reviewer
 
-- Scientific Reviewer: [NIH AIM-AHEAD Fellowship](https://www.aim-ahead.net/){:target="_blank"}
-- Scientific Reviewer: [NIH AIM-AHEAD and NCATS Training Program](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){:target="_blank"}
+- Scientific Reviewer: [NIH AIM-AHEAD Fellowship](https://www.aim-ahead.net/){:target="_blank"} (2024)
+- Scientific Reviewer: [NIH AIM-AHEAD and NCATS Training Program](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){:target="_blank"} (2023-2024)
 
 ## Committees and Events
 
