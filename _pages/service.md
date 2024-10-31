@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 
-## Editorial
+## Ongoing
 
 - Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} (2022 - present)
 
-## Peer Reviewer
+## Peer Review
 
 ### Journals
 - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
 - [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
 
 
-## Scientific Reviewer
+## Scientific Review
 
 - Scientific Reviewer: [NIH AIM-AHEAD Fellowship](https://www.aim-ahead.net/){:target="_blank"} (2024)
 - Scientific Reviewer: [NIH AIM-AHEAD and NCATS Training Program](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){:target="_blank"} (2023-2024)
