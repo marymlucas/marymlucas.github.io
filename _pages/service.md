@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer Review
 
-- #### Journals
+- ### Journals
     - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
     - [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
 
