@@ -10,7 +10,7 @@ redirect_from:
 
 I am a doctoral candidate and graduate research assistant at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. 
 
-My research interests and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modeling for diagnostic and prognostic applications, in health disparities, and in AI fairness. I also have a keen interest in the use and implications of large language models (LLMs) in healthcare. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
+My [research interests](/research/) and work lie at the intersection of artificial intelligence / machine learning and healthcare.  In particular, I'm interested in predictive modeling for diagnostic and prognostic applications, in health disparities, and in AI fairness. I also have a keen interest in the use and implications of large language models (LLMs) in healthcare. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
 
 Prior to venturing into the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
 
