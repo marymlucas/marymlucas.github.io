@@ -11,11 +11,10 @@ author_profile: true
 - Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} (2022 - present)
 
 ## Peer Review
-
 - ### Journals
     - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
     - [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
-
+- ### Conferences
 
 ## Scientific Review
 
