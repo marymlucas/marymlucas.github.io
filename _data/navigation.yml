@@ -12,9 +12,8 @@ main:
   - title: "Contact"
     url: /lets-connect/ 
 
-  - title: "Talks"
-    - title: "invited"
-      url: /publications/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
