@@ -23,10 +23,10 @@ author_profile: true
 
 ## Committees and Events
 
-- Co-Chair: [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"}
+- Co-Chair: [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
-- Organizing Committee: [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"}
+- Organizing Committee: [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
-- Organizing Committee: Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"}
+- Organizing Committee: Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
