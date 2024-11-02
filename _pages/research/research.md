@@ -9,7 +9,7 @@ redirect_from:
 
 My research interests lie at the intersection of health informatics, artificial intelligence in healthcare, and health equity. My work focuses on two key areas:
 
-1. **Bias in the health AI** 
+1. **Bias in health AI** 
   - developing frameworks and approaches to define, detect, and quantify AI bias
   - exploring and creating innovative approaches to mitigate AI bias and unfair outcomes
   - examining the role of AI on health disparities
