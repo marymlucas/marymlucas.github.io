@@ -14,13 +14,13 @@ My research interests lie at the intersection of health informatics, artificial 
   - exploring and creating innovative approaches to mitigate AI bias and unfair outcomes
   - examining the role of AI on health disparities
   - using AI to advance health equity
-  
-  Foundational to this work is my interest and work in health disparities research.
 
 2. **Large Language Models (LLMs) for the healthcare applications** 
   - exploring novel healthcare applications
   - evaluating clinical effectiveness and safety
   - understanding the implications of LLMs in clinical settings
+
+Foundational to this work is my interest and work in health disparities research.
 
 While I'm passionate about advancing technological frontiers with novel methods and approaches, my work is grounded in pragmatism. I believe that meaningful research must bridge the gap between innovative methodologies and tangible improvements in health outcomes. My ultimate goal is to develop solutions that make a real difference in people's lives, improve health outcomes, and reduce healthcare disparities.
 
