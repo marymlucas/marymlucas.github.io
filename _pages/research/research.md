@@ -20,6 +20,6 @@ My research interests lie at the intersection of health informatics, artificial 
   - evaluating clinical effectiveness and safety
   - understanding the implications of LLMs in clinical settings
 
-While I'm passionate about advancing technological frontiers with novel methods and approaches, my work is grounded in pragmatism. I believe that meaningful research must bridge the gap between innovative methodologies and tangible improvements in health outcomes. My ultimate goal is to develop solutions that make a real difference in people's lives, improve health outcomes, and reduce healthcare disparities.
+While I'm passionate about advancing technological frontiers with novel methods and approaches, my work is grounded in pragmatism. I believe that meaningful research must bridge the gap between innovative methodologies and tangible improvements in health outcomes. My ultimate goal is to advance science in a way that makes a real difference in people's lives, improves health outcomes, and reduces healthcare disparities.
 
 Here is a current list of [research projects](/) that I have or am working on, as well as a list of my current [publications](/research/publications/).
