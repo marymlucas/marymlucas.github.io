@@ -15,7 +15,7 @@ My research interests lie at the intersection of health informatics, artificial 
   - examining the role of AI on health disparities
   - using AI to advance health equity
 
-2. **Large Language Models (LLMs) for the healthcare applications** 
+2. **Large Language Models (LLMs) in healthcare** 
   - exploring novel healthcare applications
   - evaluating clinical effectiveness and safety
   - understanding the implications of LLMs in clinical settings
