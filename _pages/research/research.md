@@ -7,7 +7,7 @@ redirect_from:
   - /research/research.md
 ---
 
-My research interests lie at the intersection of health informatics, artificial intelligence in medicine, and health equity. My work is primarily focused on two key areas:
+My research interests fall broadly within health informatics, artificial intelligence in medicine, and health equity. My work is primarily focused on two key areas:
 
 1. **Bias in health AI** 
   - developing frameworks and approaches to define, detect, and quantify AI bias
