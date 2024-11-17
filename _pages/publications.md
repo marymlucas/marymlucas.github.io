@@ -60,4 +60,18 @@ Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-l
 Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Transition temperature for 4He liquid adsorbed in disordered media", *Indian journal of pure & applied physics, 42(5), 351-354*.
 {: .blue}
 
+T. Koskei, J. Muhehe, C. Muchunku, **M. Mueni**, S. Kioko and M. Mwamburi, (2002). "Instrumentation for the performance monitoring of a 2-dimensional truncated CPC/PV system under concentrated irradiance using computer interfacing", *Presented at the Seventh College on Thin Film Technology, 29th July - 10th Aug 2002, University of Dar es Salaam, Tanzania*
+{: .gray}
 
+**M. Mueni** (2001). PVPM User and Technical Manual. *Internal Publication, Solar Energy Research Group, Department of Physics, Moi University, Eldoret, Kenya*
+{: .gray}
+
+**M. Mueni** (2000). "The Performance Monitoring of a Compound Parabolic Concentrator/Photovoltaic System at Equatorial Latitudes", *MPhil Thesis, Moi University, Eldoret, Kenya*
+{: .gray}
+
+**M. Mueni** and M. Mwamburi, (2000). "Temperature dependent performance of a CPC/PV system at equatorial latitudes", *Proceedings, Sixth College on Thin Film Technology, Aug 2000, University of Dar es Salaam, Tanzania*
+{: .gray}
+
+T. Sakwa, D. Waswa and **M. Mueni** (eds.), (1999). "Basic Physics 1", *Internal Publication - Lecture notes monograph for 1st year undergraduate students at Moi University, Eldoret, Kenya*
+
+**M. Mueni** and M. Mwamburi, (1998). "A compound parabolic concentrator for photovoltaics at equatorial latitudes", *Proceedings, Fifth College on Thin Film Technology, Aug 1998, University of Dar es Salaam, Tanzania*
