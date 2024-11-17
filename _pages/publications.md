@@ -60,7 +60,7 @@ Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-l
 Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Transition temperature for 4He liquid adsorbed in disordered media", *Indian journal of pure & applied physics, 42(5), 351-354*.
 {: .blue}
 
-T. Koskei, J. Muhehe, C. Muchunku, **M. Mueni**, S. Kioko and M. Mwamburi, (2002). "Instrumentation for the performance monitoring of a 2-dimensional truncated CPC/PV system under concentrated irradiance using computer interfacing", *Presented at the Seventh College on Thin Film Technology, 29th July - 10th Aug 2002, University of Dar es Salaam, Tanzania*
+T. Koskei, J. Muhehe, C. Muchunku, **M. Mueni**, S. Kioko and M. Mwamburi, (2002). "Instrumentation for the performance monitoring of a 2-dimensional truncated CPC/PV system under concentrated irradiance using computer interfacing", *Proceedings, Seventh College on Thin Film Technology, 29th July - 10th Aug 2002, University of Dar es Salaam, Tanzania*
 {: .gray}
 
 **M. Mueni** (2001). PVPM User and Technical Manual. *Internal Publication, Solar Energy Research Group, Department of Physics, Moi University, Eldoret, Kenya*
