@@ -54,10 +54,10 @@ Prachiti Aras, Guanglan Zhang, **Mary Lucas**, Reza Rawassizadeh, Irena Vodenska
 ----------------------------
 
 ### 2004 and prior
-Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-level approximation in disordered medium", *Indian journal of pure & applied physics, 42(5), 355-360*.
+Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-level approximation in disordered medium", *Indian Journal of Pure & Applied Physics, 42(5), 355-360*.
 {: .blue}
 
-Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Transition temperature for 4He liquid adsorbed in disordered media", *Indian journal of pure & applied physics, 42(5), 351-354*.
+Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Transition temperature for 4He liquid adsorbed in disordered media", *Indian Journal of Pure & Applied Physics, 42(5), 351-354*.
 {: .blue}
 
 T. Koskei, J. Muhehe, C. Muchunku, **M. Mueni**, S. Kioko and M. Mwamburi, (2002). "Instrumentation for the performance monitoring of a 2-dimensional truncated CPC/PV system under concentrated irradiance using computer interfacing", *Proceedings, Seventh College on Thin Film Technology, 29th July - 10th Aug 2002, University of Dar es Salaam, Tanzania*
