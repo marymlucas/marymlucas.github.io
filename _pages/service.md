@@ -32,7 +32,8 @@ author_profile: true
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
 
 ## Professional / Research Organization Memberships
-- IEEE - Graduate Student member (2022 - Present)
-- ACM - Graduate Student Member (2022 - Present)
-- ECOG-ACRIN - Associate Member (2023 - Present)
-- National Medical Association (NMA) - Associate Member (2024 - Present)
+- IEEE (2022 - Present)
+- ACM (2022 - Present)
+- IHI (2023 - Present)
+- ECOG-ACRIN (2023 - Present)
+- National Medical Association (NMA) - (2024 - Present)
