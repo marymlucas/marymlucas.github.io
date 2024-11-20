@@ -32,8 +32,7 @@ author_profile: true
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
 
 ## Professional / Research Organization Memberships
-- [IEEE](https://www.ieee.org/){:target="_blank"} (2022 - Present)
-- [ACM](https://www.acm.org/){:target="_blank"} (2022 - Present)
-- [IHI](https://institute4hi.org/){:target="_blank"} (2023 - Present)
-- [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} (2023 - Present)
-- [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} - (2024 - Present)
+- Associate Member - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} - (2024 - Present)
+- Associate Member - [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} (2023 - Present)
+- Graduate Student Member - [IEEE](https://www.ieee.org/){:target="_blank"} (2022 - Present)
+- Graduate Student Member - [ACM](https://www.acm.org/){:target="_blank"} (2022 - Present)
