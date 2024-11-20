@@ -30,3 +30,9 @@ author_profile: true
 - Organizing Committee: Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
+
+## Professional / Research Organization Memberships
+- IEEE - Graduate Student member (2022 - Present)
+- ACM - Graduate Student Member (2022 - Present)
+- ECOG-ACRIN - Associate Member (2023 - Present)
+- National Medical Association (NMA) - Associate Member (2024 - Present)
