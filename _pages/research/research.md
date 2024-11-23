@@ -7,18 +7,24 @@ redirect_from:
   - /research/research.md
 ---
 
-My research interests fall broadly within health informatics, artificial intelligence (AI) in medicine, and health equity. My work is primarily focused on two key areas:
+My research interests fall broadly within health informatics, artificial intelligence (AI) in medicine, and health equity. My work is primarily focused on four key areas:
 
 1. **Health AI**
-  - Predictive modeling using all forms of health data
+  - predictive modeling using all forms of health data
   - examining the role of AI in health disparities
   - using AI to advance health equity
 
-2. **AI Bias (with a specific focus on health AI)** 
+2. **Health Disparities**
+  - identifying and quantifying health disparities using EHR data
+  - understanding causes of disparities
+  - exploring measures to mitigate disparities and advance health equity
+
+3. **AI Bias (with a specific focus on health AI)** 
   - developing frameworks and approaches to define, detect, and quantify AI bias
   - exploring and creating innovative approaches to mitigate AI bias and unfair outcomes
 
-2. **Large Language Models (LLMs) in healthcare** 
+
+4. **Large Language Models (LLMs) in healthcare** 
   - exploring novel healthcare applications
   - evaluating clinical effectiveness and safety
   - understanding the implications of LLMs in clinical settings
