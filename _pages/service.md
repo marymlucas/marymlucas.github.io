@@ -19,7 +19,7 @@ author_profile: true
 ## Scientific Review
 
 - Scientific Reviewer: [NIH AIM-AHEAD Fellowships](https://www.aim-ahead.net/){:target="_blank"} (2024)
-- Scientific Reviewer: [NIH AIM-AHEAD Training Programs](https://www.aim-ahead.net/programs/){:target="_blank"} (2023 - 2024)
+- Scientific Reviewer: [NIH AIM-AHEAD Training Programs](https://www.aim-ahead.net/programs/){:target="_blank"} (2023 - present)
 
 ## Committees and Events
 
