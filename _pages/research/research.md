@@ -17,11 +17,11 @@ My research interests fall broadly within health informatics, artificial intelli
 2. **Health Disparities**
   - identifying and quantifying health disparities using EHR data
   - understanding causes of disparities
-  - exploring measures to mitigate disparities and advance health equity
+  - exploring measures to reduce / mitigate disparities and advance health equity
 
 3. **AI Bias (with a specific focus on health AI)** 
   - developing frameworks and approaches to define, detect, and quantify AI bias
-  - exploring and creating innovative approaches to mitigate AI bias and unfair outcomes
+  - exploring and creating innovative approaches to reduce / mitigate AI bias and unfair outcomes
 
 
 4. **Large Language Models (LLMs) in healthcare** 
