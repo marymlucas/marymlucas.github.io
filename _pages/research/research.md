@@ -7,7 +7,7 @@ redirect_from:
   - /research/research.md
 ---
 
-My research interests fall broadly within health informatics, artificial intelligence (AI) in medicine, and health equity. My work is primarily focused on several key areas:
+My research interests fall broadly within health informatics, artificial intelligence (AI) in medicine, and health equity. My work is currently focused on four key areas:
 
 1. **Health AI**
   - predictive modeling using all forms of health data
