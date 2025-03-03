@@ -29,7 +29,7 @@ My research interests fall broadly within health informatics, artificial intelli
   - evaluating clinical effectiveness and safety
   - understanding the implications of LLMs in clinical settings
 
-While I am passionate about advancing technological frontiers with novel methods and approaches, my work is grounded in pragmatism. I believe that meaningful research must bridge the gap between innovative methodologies and tangible improvements in health outcomes. My ultimate hope is that my work will advance science in a way that makes a real difference in people's lives, improves health outcomes, and reduces health disparities.
+While I am passionate about advancing technological frontiers with novel methods and approaches, my work is grounded in pragmatism. I believe that meaningful research must bridge the gap between innovative methodologies and tangible improvements in health outcomes. My hope is that my work will contribute to scientific advancements in ways that improve health outcomes, reduce disparities, and positively impact individuals and communities.
 
 - [Research projects](.)
 - [Publications](/research/publications/)
