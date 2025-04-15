@@ -16,6 +16,10 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ## Updates
 
+### 2025
+April 2025:
+- Manuscript accepted to the [23nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime25.aimedicine.info/){:target="_blank"}, Pavia, Italy.
+
 ### 2024
 - August 2024:
   - Manuscript accepted for publication in JCO Clinical Cancer Informatics (JCO CCI), a journal of the American Society for Clinical Oncology (ASCO).
