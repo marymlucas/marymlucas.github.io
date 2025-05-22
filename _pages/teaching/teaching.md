@@ -22,3 +22,4 @@ redirect_from:
 ## Guest Lectures/Talks
 - ### Drexel University
     - INFO 821: Foundations of Information Science
+    - INFO 103: Introduction to Data Science
