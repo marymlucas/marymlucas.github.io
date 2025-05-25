@@ -9,7 +9,7 @@ redirect_from:
 
 ## Instructor of Record
 - ### Drexel University
-    - INFO 896 Health Informatics Experience (Spring 2025)
+    - INFO 896 Health Informatics Experience (Spring 24-25)
 
 ## Teaching Assistant
 - ### Boston University
@@ -21,5 +21,8 @@ redirect_from:
 
 ## Guest Lectures/Talks
 - ### Drexel University
-    - INFO 821: Foundations of Information Science
-    - INFO 103: Introduction to Data Science
+    - INFO 821: Foundations of Information Science (Fall 23-24)
+    - INFO 103: Introduction to Data Science (Spring 24-25)
+
+- ### University of Pennsylvania
+    - Penn GSE Research Seminar 1 (2018)
