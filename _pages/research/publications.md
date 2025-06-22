@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /research/publications/
 author_profile: true
+redirect_from: 
+  - /research/publications/publications.md
 ---
 
 - Journal Publications
