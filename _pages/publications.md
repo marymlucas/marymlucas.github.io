@@ -12,6 +12,10 @@ author_profile: true
 - Posters and Misc.
 {: .gray}
 
+### 2025
+**Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham. https://doi.org/10.1007/978-3-031-95841-0_44{:target="_blank"}
+{: .black}
+
 ### 2024
 **Mary M. Lucas**, Mario Schootman, Jonathan A. Laryea, Sonia T. Orcutt, Chenghui Li, Jun Ying, Jennifer A. Rumpel, Christopher C. Yang, "Bias in Prediction Models to Identify Patients With Colorectal Cancer at High Risk for Readmission After Resection", *JCO Clinical Cancer Informatics* **8**, e2300194(2024). [DOI:10.1200/CCI.23.00194](https://ascopubs.org/doi/10.1200/CCI.23.00194){:target="_blank"}
 {: .blue}
