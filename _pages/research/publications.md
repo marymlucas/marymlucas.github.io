@@ -60,7 +60,7 @@ Prachiti Aras, Guanglan Zhang, **Mary Lucas**, Reza Rawassizadeh, Irena Vodenska
 
 ----------------------------
 
-### 2004 and prior
+### Selected Publications in Physics
 Sakwa, W., Khanna, K., **Mueni, M.**, Rotich, S., & Torongey, P. (2004). "Four-level approximation in disordered medium", *Indian Journal of Pure & Applied Physics, 42(5), 355-360*.
 {: .blue}
 
