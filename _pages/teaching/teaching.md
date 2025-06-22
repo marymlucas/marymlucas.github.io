@@ -21,8 +21,8 @@ redirect_from:
 
 ## Guest Lectures/Talks
 - ### Drexel University
-    - INFO 821: Foundations of Information Science (Fall 23-24)
     - INFO 103: Introduction to Data Science (Spring 24-25)
+    - INFO 821: Foundations of Information Science (Fall 23-24)
 
 - ### University of Pennsylvania
     - Penn GSE Research Seminar 1 (2018)
