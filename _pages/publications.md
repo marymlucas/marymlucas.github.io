@@ -13,22 +13,22 @@ author_profile: true
 {: .gray}
 
 ### 2025
-**Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham. [https://doi.org/10.1007/978-3-031-95841-0_44](https://doi.org/10.1007/978-3-031-95841-0_44)
+**Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) *Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham.* [https://doi.org/10.1007/978-3-031-95841-0_44](https://doi.org/10.1007/978-3-031-95841-0_44)
 {:target="_blank"}
 {: .black}
 
 ### 2024
 **Mary M. Lucas**, Mario Schootman, Jonathan A. Laryea, Sonia T. Orcutt, Chenghui Li, Jun Ying, Jennifer A. Rumpel, Christopher C. Yang, "Bias in Prediction Models to Identify Patients With Colorectal Cancer at High Risk for Readmission After Resection", *JCO Clinical Cancer Informatics* **8**, e2300194(2024). [DOI:10.1200/CCI.23.00194](https://ascopubs.org/doi/10.1200/CCI.23.00194){:target="_blank"}
 {: .blue}
-**Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", Journal of the American Medical Informatics Association, 31(9), 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
+**Mary M Lucas**, Justin Yang, Jon K Pomeroy, Christopher C Yang, "Reasoning with large language models for medical question answering", *Journal of the American Medical Informatics Association*, **31(9)**, 1964–1975, [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue}
 <!-- **Mary M. Lucas**, Justin Yang, Jon K. Pomeroy, Christopher C. Yang, “Reasoning with Large Language Models for Medical Question Answering,” Journal of the American Medical Informatics Association (2024). [https://doi.org/10.1093/jamia/ocae131](https://doi.org/10.1093/jamia/ocae131){:target="_blank"}
 {: .blue} -->
-Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, IRIS Registry Analytic Center Consortium  (2024). "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis." Ophthalmology Retina, 8(7), 657–665. [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
+Julia A. Haller, Maurizio Tomaiuolo, **Mary M. Lucas**, Christopher C. Yang, Leslie Hyman, IRIS Registry Analytic Center Consortium  (2024). "Disparities in Retinal Vein Occlusion Presentation and Initiation of Anti-VEGF Therapy: an Academy IRIS® Registry Analysis." *Ophthalmology Retina*, **8(7)**, 657–665. [https://doi.org/10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
 {: .blue}
-Latrice Landry, **Mary Lucas**, Anietie Andy, Ebelechukwu Nwafor (2024). "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." International Journal of Digital Curation, 18(1), pp.9. [https://doi.org/10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
+Latrice Landry, **Mary Lucas**, Anietie Andy, Ebelechukwu Nwafor (2024). "Artificial Intelligence Assisted Curation of Population Groups in Biomedical Literature." *International Journal of Digital Curation*, **18(1)**, pp.9. [https://doi.org/10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
 {: .black}
-Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). "Beyond Self-consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging". In: Finkelstein, J., Moskovitch, R., Parimbelli, E. (eds) Artificial Intelligence in Medicine. AIME 2024. Lecture Notes in Computer Science(), vol 14844. Springer, Cham. [doi: 10.1007/978-3-031-66538-7_23](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}
+Chang, CH., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024). "Beyond Self-consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging". In: Finkelstein, J., Moskovitch, R., Parimbelli, E. (eds) *Artificial Intelligence in Medicine. AIME 2024. Lecture Notes in Computer Science(), vol 14844. Springer, Cham.* [doi: 10.1007/978-3-031-66538-7_23](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}
 {: .black}
 <!-- Chia-Hsuan Chang, **Mary M. Lucas**, Yeawon Lee, Christopher C. Yang, Grace Lu-Yao (2024). "Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging." Proceedings of the 22nd International Conference on Artificial Intelligence in Medicine (AIME 2024), Salt Lake City, UT, USA, July 9-12, 2024. [doi: 10.48550/arXiv.2404.13149](https://doi.org/10.48550/arXiv.2404.13149){:target="_blank"}
 {: .black} -->
