@@ -13,7 +13,7 @@ author_profile: true
 {: .gray}
 
 ### 2025
-**Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham. https://doi.org/10.1007/978-3-031-95841-0_44
+**Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham. [https://doi.org/10.1007/978-3-031-95841-0_44](https://doi.org/10.1007/978-3-031-95841-0_44)
 {:target="_blank"}
 {: .black}
 
