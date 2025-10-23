@@ -32,8 +32,8 @@ author_profile: true
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
 
 ## Professional / Research Organization Memberships
-- Associate Member - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} - (2024 - Present)
 - Associate Member - [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} (2023 - Present)
-- Student Member - [IEEE](https://www.ieee.org/){:target="_blank"} (2022 - Present)
-- Student Member - [ACM](https://www.acm.org/){:target="_blank"} (2022 - Present)
+- Associate Member - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} - (2024 - Present)
+- Member - [CARG](https://www.mycarg.org/){:target="_blank"} (2024 - Present)
 - Student Member - [AMIA](https://amia.org/){:target="_blank"} (2022 - Present)
+- Student Member - [ACM](https://www.acm.org/){:target="_blank"} (2022 - Present)
