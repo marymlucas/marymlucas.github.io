@@ -23,7 +23,7 @@ author_profile: true
 - Scientific Reviewer: [NIH AIM-AHEAD Training Programs](https://www.aim-ahead.net/programs/){:target="_blank"} (2023, 2024)
 
 ## Committees and Events
-- Student member, Information Science Undergraduate Curriculum Committee [Drexel College of Computing and Informatics](https://drexel.edu/cci/){:target="_blank"}(2025)
+- Student member: Information Science Undergraduate Curriculum Committee [Drexel College of Computing and Informatics](https://drexel.edu/cci/){:target="_blank"} (2025)
 
 - Co-Chair: [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
 
