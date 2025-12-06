@@ -34,7 +34,7 @@ author_profile: true
 - Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
 
 ## Professional / Research Organization Memberships
-- Student Member - [AMIA](https://amia.org/){:target="_blank"} (2022 - Present)
+- Member - [AMIA](https://amia.org/){:target="_blank"} (2022 - Present)
 - Associate Member - [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} (2023 - Present)
 - Member - [CARG](https://www.mycarg.org/){:target="_blank"} (2024 - Present)
 - Student Member - [ASA](https://www.amstat.org/){:target="_blank"} (2025 - Present)
