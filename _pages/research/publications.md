@@ -15,6 +15,10 @@ redirect_from:
 {: .gray}
 
 ### 2025
+N. Nikita, T.D. Tran, C.C. Yang, J.A. Parrish, A.M.D. Hoedt, A. Hoffmeyer, A. Shaver, S. Sharma, **M. Lucas**, K.K. Zarrabi, S.J. Freedland, W.K. Kelly, G. Lu-Yao, "Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race", Journal of Geriatric Oncology, Volume 16, Issue 8, Supplement, 2025, 102504, ISSN 1879-4068,
+[DOI: 10.1016/j.jgo.2025.102504](https://doi.org/10.1016/j.jgo.2025.102504){:target="_blank"}
+{: .black}
+
 **Lucas, M.M.**, Yang, C.C. (2025). A Collaborative Learning Approach for Fairness in Prediction of Substance Use Disorder Treatment Completion. In: Bellazzi, R., Juarez Herrero, J.M., Sacchi, L., Zupan, B. (eds) *Artificial Intelligence in Medicine. AIME 2025. Lecture Notes in Computer Science(), vol 15735. Springer, Cham.* [https://doi.org/10.1007/978-3-031-95841-0_44](https://doi.org/10.1007/978-3-031-95841-0_44)
 {:target="_blank"}
 {: .black}
