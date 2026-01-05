@@ -9,9 +9,12 @@ redirect_from:
 
 ## Instructor of Record
 - ### Drexel University
-    - INFO 896 Health Informatics Experience (Spring 24-25)
+    - INFO 896 Health Informatics Experience
 
 ## Teaching Assistant
+- ### Drexel University
+    - INFO 102 Introduction to Information Systems
+
 - ### Boston University
     - MET CS 521 Information Structures with Python
     - MET CS 570 Biomedical Sciences and Health IT
