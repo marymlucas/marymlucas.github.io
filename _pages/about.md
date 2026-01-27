@@ -17,6 +17,8 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 ## Updates
 
 ### 2025
+- December 2025:
+  - Manuscript accepted to the [14th IEEE International Conference on Health Informatics (IEEE ICHI 2024)](https://zhang-informatics.github.io/ICHI2026/index.html){:target="_blank"}, Minneapolis, MN.
 - April 2025:
   - Manuscript accepted to the [23rd International Conference on Artificial Intelligence in Medicine (AIME 2025)](https://aime25.aimedicine.info/){:target="_blank"}, Pavia, Italy.
 - March 2025:
