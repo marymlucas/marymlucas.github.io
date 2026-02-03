@@ -12,8 +12,10 @@ author_profile: true
 
 ## Peer Review
 - ### Journals
-    - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
+    - [Journal of the American Medical Informatics Association](https://amia.org/news-publications/journals/jamia){:target="_blank"}
     - [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
+    - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
+    
 - ### Conferences
     - [14th IEEE International Conference on Healthcare Informatics (ICHI)](https://zhang-informatics.github.io/ICHI2026/index.html){:target="_blank"} (2026)
 
