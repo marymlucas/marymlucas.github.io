@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Mary M. Lucas"
   avatar           : "profile.PNG"
-  bio              : "Doctoral candidate at <a style='color: black;' href='https://drexel.edu/cci/'>Drexel University</a> <br> <br> NIH AIM-AHEAD Research Fellow"
+  bio              : "Doctoral candidate at <a style='color: black;' href='https://drexel.edu/cci/'>Drexel University</a> <br> <br> NIH AIM-AHEAD Research Fellow<br><br>
+<a href='/files/Mary_Lucas_CV-2026.pdf' style='font-weight:600; text-decoration:none'>📄 CV (PDF)</a>""
   #location         : ""
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
