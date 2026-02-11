@@ -1,18 +1,21 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+mary:
+  name   : "Mary M. Lucas"
+  avatar : "profile.PNG"
+  bio    : "Doctoral candidate at <a style='color: black;' href='https://drexel.edu/cci/'>Drexel University</a> <br> <br> NIH AIM-AHEAD Research Fellow"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/marymlucas/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/marymlucas"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fas fa-id-badge"
+      url: "http://orcid.org/0000-0002-0413-7499"
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/Mary_Lucas_CV-2026.pdf"

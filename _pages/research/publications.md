@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /research/publications/
 author_profile: true
+author: mary
 redirect_from: 
   - /research/publications/publications.md
 ---

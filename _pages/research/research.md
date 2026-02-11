@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+author: mary
 redirect_from: 
   - /research/research.md
 ---

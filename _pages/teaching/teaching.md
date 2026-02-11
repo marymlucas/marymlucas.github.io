@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+author: mary
 redirect_from: 
   - /teaching/research.md
 ---
