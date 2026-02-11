@@ -10,7 +10,7 @@ Please reach out to connect via [LinkedIn](https://www.linkedin.com/in/marymluca
 
 <div class="notice--info" style="margin: 1.2em 0;">
   <a class="btn btn--primary btn--large"
-     href="{{ site.baseurl }}/files/Mary_Lucas_resume-2026.pdf"
+     href="{{ site.baseurl }}/files/Mary_Lucas_CV-2026.pdf"
      download>
      📄 Download my CV (PDF)
   </a>
