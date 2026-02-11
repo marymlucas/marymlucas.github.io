@@ -14,14 +14,13 @@ My [research interests](/research/) and work lie at the intersection of artifici
 
 Prior to venturing into the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
 
-<div class="notice--info" style="margin: 1.2em 0;">
+<p style="margin: 1.2em 0;">
   <a class="btn btn--primary btn--large"
      href="{{ site.baseurl }}/files/Mary_Lucas_resume-2026.pdf"
      download>
      📄 Download my CV (PDF)
   </a>
-</div>
-
+</p>
 
 ## Updates
 

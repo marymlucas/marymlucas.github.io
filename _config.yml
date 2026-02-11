@@ -116,7 +116,10 @@ author:
   xing             :
  # youtube          : "einsteinsboi"
   wikipedia        :
-
+  links:
+    - label: "Download CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/Mary_Lucas_resume-2026.pdf"
 
 # Reading Files
 include:
