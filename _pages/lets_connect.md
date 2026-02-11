@@ -3,8 +3,6 @@ layout: archive
 title: "Contact"
 permalink: /lets-connect/
 author_profile: true
-author: mary
-
 ---
 
 
