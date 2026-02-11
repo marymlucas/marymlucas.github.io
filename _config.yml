@@ -83,52 +83,40 @@ author:
   name             : "Mary M. Lucas"
   avatar           : "profile.PNG"
   bio              : "Doctoral candidate at <a style='color: black;' href='https://drexel.edu/cci/'>Drexel University</a> <br> <br> NIH AIM-AHEAD Research Fellow"
-#   #location         : ""
-#   employer         :
-#   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
-#   email            :
-#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "marymlucas"
-#   #twitter          : "mary_m_lucas"
-#   #mastodon         : "mstdn.social/@marymlucas"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           :
-#   linkedin         : "marymlucas"
-#   orcid            : "http://orcid.org/0000-0002-0413-7499"
-#   pinterest        :
-#   soundcloud       :
-# #  stackoverflow    : "14128625/mary-m-lucas"
-#   steam            :
-#   tumblr           :
-#   vine             :
-#   weibo            :
-#   xing             :
-#  # youtube          : "einsteinsboi"
-#   wikipedia        :
+  #location         : ""
+  employer         :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "marymlucas"
+  #twitter          : "mary_m_lucas"
+  #mastodon         : "mstdn.social/@marymlucas"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "marymlucas"
+  orcid            : "http://orcid.org/0000-0002-0413-7499"
+  pinterest        :
+  soundcloud       :
+#  stackoverflow    : "14128625/mary-m-lucas"
+  steam            :
+  tumblr           :
+  vine             :
+  weibo            :
+  xing             :
+ # youtube          : "einsteinsboi"
+  wikipedia        :
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/marymlucas/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/marymlucas"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=MM8HfbQAAAAJ&hl=en"
-    - label: "ORCID"
-      icon: "fas fa-id-badge"
-      url: "http://orcid.org/0000-0002-0413-7499"
     - label: "CV"
       icon: "fas fa-file-pdf"
       url: "/files/Mary_Lucas_CV-2026.pdf"
