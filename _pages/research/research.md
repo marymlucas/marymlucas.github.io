@@ -79,4 +79,4 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
     - Designed and evaluated an LLM-assisted pipeline to automate extraction of population demographics from biomedical literature for equity analysis (IDCC). -->
 
 
-- [Publications](/research/publications/)
+[Publications](/research/publications/)
