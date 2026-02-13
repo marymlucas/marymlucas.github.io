@@ -36,13 +36,13 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 - Designed a fairness auditing framework for clinical risk prediction models across chronic kidney disease, substance use disorder, and oncology datasets, integrating novel mitigation techniques and benchmarking against existing approaches ([JCO CCI↗](https://ascopubs.org/doi/full/10.1200/CCI.23.00194), [AIME 2025↗](https://doi.org/10.1007/978-3-031-95841-0_44), [IEEE ICHI 2024↗](https://ieeexplore.ieee.org/document/10628594), [IEEE ICHI 2023↗](https://doi.org/10.1109/ICHI57859.2023.00128)).
 - Leveraged over 10 years of clinical nursing experience to guide feature engineering and problem formulation, distinguishing true physiological signal from artifacts of clinical workflow.
 - Quantified disparities in readmission prediction and treatment completion, demonstrating how commonly used fairness metrics fail to capture systemic healthcare inequities.
-- Developed a **Neighborhood-Adaptive Difficulty Score** combining k-nearest neighbor topology with conformal prediction to distinguish model limitations from inherent case complexity. <br>*Manuscript in preparation*
+- Developed a **Neighborhood-Adaptive Difficulty Score** combining k-nearest neighbor topology with conformal prediction to distinguish model limitations from inherent case complexity. <br>*(Manuscript in preparation(*
 
 ---
 
 ### Real-World Evidence & Health Disparities Modeling
 
-- Developed a mixed-order Markov chain simulation using VA Corporate Data Warehouse data to model prostate cancer treatment sequences and identify empirically observed pathways associated with elevated mortality risk across racial groups. <br>*Manuscript in preparation*
+- Developed a mixed-order Markov chain simulation using VA Corporate Data Warehouse data to model prostate cancer treatment sequences and identify empirically observed pathways associated with elevated mortality risk across racial groups. <br>*(Manuscript in preparation)*
 - Conducted a national registry study using the AAO IRIS® Registry to quantify racial and gender disparities in retinal vein occlusion treatment via multivariable logistic regression, highlighting inequities in access to anti-VEGF therapy ([Ophthalmology Retina↗](https://www.ophthalmologyretina.org/article/S2468-6530(24)00043-5/abstract)).
 
 ---
