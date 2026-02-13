@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from: 
-  - /research/research.md
+  - /research/research_old.md
 ---
 
 My research interests fall broadly within health informatics, artificial intelligence (AI) in medicine, and health equity. My work is currently focused on four key areas:
