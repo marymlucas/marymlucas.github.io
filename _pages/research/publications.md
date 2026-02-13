@@ -14,6 +14,13 @@ redirect_from:
 
 ## Peer-Reviewed Journal Articles
 
+### 2025
+- Nikita, N., Tran, T.D., Yang, C.C., *et al.*, **Lucas, M.M.** (2025).  
+  *Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race.*  
+  **Journal of Geriatric Oncology**, 16(8), Supplement, 102504.  
+  *(Extended abstract; conference proceedings).*
+  [DOI: 10.1016/j.jgo.2025.102504](https://doi.org/10.1016/j.jgo.2025.102504){:target="_blank"}
+
 ### 2024
 - **Lucas, M.M.**, Schootman, M., Laryea, J.A., *et al.* (2024).  
   *Bias in prediction models to identify patients with colorectal cancer at high risk for readmission after resection.*  
@@ -44,12 +51,6 @@ redirect_from:
   *A collaborative learning approach for fairness in prediction of substance use disorder treatment completion.*  
   **AIME 2025**, LNCS 15735.  
   [DOI: 10.1007/978-3-031-95841-0_44](https://doi.org/10.1007/978-3-031-95841-0_44){:target="_blank"}
-
-- Nikita, N., Tran, T.D., Yang, C.C., *et al.*, **Lucas, M.M.** (2025).  
-  *Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race.*  
-  **Journal of Geriatric Oncology**, 16(8), 102504.  
-  [DOI: 10.1016/j.jgo.2025.102504](https://doi.org/10.1016/j.jgo.2025.102504){:target="_blank"}
-
 
 ### 2024
 - Chang, C.-H., **Lucas, M.M.**, Lee, Y., Yang, C.C., Lu-Yao, G. (2024).  
