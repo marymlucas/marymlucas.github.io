@@ -25,7 +25,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
   Supporting research in health equity, algorithmic fairness, and trustworthy AI.
 
 - **Edith Peterson Mitchell, MD Health Equity Travel Scholarship** (2023, 2024)  
-  ECOG-ACRIN Group Meetings, Washington, DC.
+  ECOG-ACRIN Group Meetings.
 
 ---
 
