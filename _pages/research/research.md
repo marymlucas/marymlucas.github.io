@@ -12,10 +12,27 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 
 ---
 
+## Current Work
+**PhD Candidate, Information Science** | Drexel University | Expected 2026   
+*Advisor*: Christopher C Yang, PhD
+*Dissertation:* Fairness-aware and uncertainty-aware clinical machine learning, focusing on explainable risk prediction and safe deployment in real-world healthcare systems.
+
+---
+
+## Funding & Fellowships
+
+- **NIH AIM-AHEAD Research Fellowship** (2022)  
+  Supporting research in health equity, algorithmic fairness, and trustworthy AI.
+
+- **Edith Peterson Mitchell, MD Health Equity Travel Scholarship** (2023, 2024)  
+  ECOG-ACRIN Group Meetings, Washington, DC.
+
+---
+
 ## Core Focus Areas
 
 - **Health AI & Predictive Modeling**  
-  Developing robust predictive models using multi-modal health data to support clinical decision-making.
+  Developing robust predictive models for clinical decision support using multi-modal health data to support clinical decision-making.
 
 - **Algorithmic Fairness & Bias**  
   Designing novel frameworks to detect, quantify, and mitigate bias in high-stakes clinical AI systems.
@@ -50,33 +67,10 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 ### Clinical NLP & Large Language Model Evaluation
 
 - Developed **Ensemble Reasoning**, an iterative prompting framework that improved medical question-answering accuracy and consistency on USMLE datasets (+3-5%) across both closed (GPT-4) and open-source clinical LLMs ([JAMIA](https://academic.oup.com/jamia/article/31/9/1964/7705627){:target="_blank"}).
-- Applied open-source clinical LLMs to extract **pathologic TNM cancer stage** from real-world pathology reports without labeled training data, demonstrating that prompting and ensemble-based reasoning can achieve competitive performance and improved consistency relative to fine-tuned BERT baselines ([AIME 2024](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}, [IEEE ICHI 2024 →](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}).
+- Applied open-source clinical LLMs to extract **pathologic TNM cancer stage** from real-world pathology reports without labeled training data, demonstrating that prompting and ensemble-based reasoning can achieve competitive performance and improved consistency relative to fine-tuned BERT baselines ([AIME 2024](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}, [IEEE ICHI 2024](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}).
 - Designed and evaluated an LLM-assisted pipeline to automate extraction of population demographics from biomedical literature, enabling scalable equity analysis ([International Journal of Digital Curation](https://ijdc.net/index.php/ijdc/article/view/950){:target="_blank"}).
 
 ---
-
-<!-- **Core Focus Areas**
-
-  - **Health AI & Predictive Modeling**: Developing robust predictive models using multi-modal health data to drive clinical decision support.
-  - **Algorithmic Fairness & Bias**: Creating novel frameworks to detect, quantify, and mitigate AI bias in high-stakes clinical settings.
-  - **Health Disparities**: Leveraging large-scale EHR data to quantify systemic inequities and inform policy interventions.
-  - **Clinical LLMs**: Evaluating the safety, effectiveness, and reasoning capabilities of Large Language Models in real-world healthcare environments.
-
-**Selected Projects**
-  - **Reliable and Robust Clinical AI**: Algorithmic Fairness and Uncertainty Quantification
-    - Designed a fairness auditing framework for clinical risk prediction models across CKD and oncology datasets, integrating novel mitigation techniques and benchmarking them against existing approaches.
-    - Leveraged 10+ years of nursing experience to guide feature engineering and problem formulation, distinguishing physiological signals from artifacts of clinical workflow.
-    - Quantified algorithmic disparities in readmission prediction and treatment completion, showing how common fairness metrics often fail to capture systemic healthcare inequities.
-
-    - Developed a novel Neighborhood-Adaptive Difficulty Score combining kNN topology with conformal prediction to identify inherently hard-to-predict cases and to distinguish model weakness from case complexity.
-
-  - Real-World Evidence at Scale: Large-Scale Real-World Evidence (RWE) & Population Health Disparities Research
-    - Developed a mixed-order Markov chain simulation using VA Corporate Data Warehouse data to model prostate cancer treatment sequences and identify which empirically observed pathways are associated with elevated mortality risk for specific racial groups.
-    - Conducted a national registry study using the AAO IRIS® Registry to quantify racial and gender disparities in retinal vein occlusion treatment using multivariable logistic regression, highlighting inequities in access to anti-VEGF therapy with implications for equitable treatment initiatives.
-  
-  - Generative AI: Clinical NLP and LLMs
-    - Developed Ensemble Reasoning, an iterative prompting framework that improved medical question-answering performance and consistency on USMLE datasets (+3-5%) across both closed (GPT-4) and open-source clinical LLMs (JAMIA).
-    - Designed and evaluated an LLM-assisted pipeline to automate extraction of population demographics from biomedical literature for equity analysis (IDCC). -->
 
 
 [Publications](/research/publications/)
