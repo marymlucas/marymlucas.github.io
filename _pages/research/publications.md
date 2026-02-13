@@ -63,10 +63,10 @@ redirect_from:
   **IEEE ICHI 2024**, Orlando, FL.  
   [DOI: 10.1109/ICHI61247.2024.00018](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}
 
-  - Landry, L., **Lucas, M.M.**, Andy, A., Nwafor, E. (2024).  
+- Landry, L., **Lucas, M.M.**, Andy, A., Nwafor, E. (2024).  
   *Artificial intelligence–assisted curation of population groups in biomedical literature.*  
   **International Journal of Digital Curation**, 18(1).  
-  *(Peer-reviewed conference paper published in a journal issue)*.
+  *(Peer-reviewed conference paper published in a journal issue)*.  
   [DOI: 10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
 
 ### 2023
