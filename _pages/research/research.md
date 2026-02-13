@@ -14,7 +14,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 
 ## Current Work
 **PhD Candidate, Information Science** | Drexel University | Expected 2026   
-*Advisor*: Christopher C Yang, PhD
+*Advisor*: Christopher C. Yang, PhD
 *Dissertation:* Fairness-aware and uncertainty-aware clinical machine learning, focusing on explainable risk prediction and safe deployment in real-world healthcare systems.
 
 ---
@@ -32,7 +32,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 ## Core Focus Areas
 
 - **Health AI & Predictive Modeling**  
-  Developing robust predictive models for clinical decision support using multi-modal health data to support clinical decision-making.
+  Developing robust predictive models for clinical decision support using multi-modal health data.
 
 - **Algorithmic Fairness & Bias**  
   Designing novel frameworks to detect, quantify, and mitigate bias in high-stakes clinical AI systems.
