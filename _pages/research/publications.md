@@ -18,7 +18,7 @@ redirect_from:
 - Nikita, N., Tran, T.D., Yang, C.C., *et al.*, **Lucas, M.M.** (2025).  
   *Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race.*  
   **Journal of Geriatric Oncology**, 16(8), Supplement, 102504.  
-  *(Extended abstract; conference proceedings).*
+  *(Extended abstract; conference proceedings).*  
   [DOI: 10.1016/j.jgo.2025.102504](https://doi.org/10.1016/j.jgo.2025.102504){:target="_blank"}
 
 ### 2024
@@ -36,11 +36,6 @@ redirect_from:
   *Disparities in retinal vein occlusion presentation and initiation of anti-VEGF therapy.*  
   **Ophthalmology Retina**, 8(7), 657–665.  
   [DOI: 10.1016/j.oret.2024.01.017](https://doi.org/10.1016/j.oret.2024.01.017){:target="_blank"}
-
-- Landry, L., **Lucas, M.M.**, Andy, A., Nwafor, E. (2024).  
-  *Artificial intelligence–assisted curation of population groups in biomedical literature.*  
-  **International Journal of Digital Curation**, 18(1).  
-  [DOI: 10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
 
 ---
 
@@ -67,6 +62,12 @@ redirect_from:
   *Classifying cancer stage with open-source clinical large language models.*  
   **IEEE ICHI 2024**, Orlando, FL.  
   [DOI: 10.1109/ICHI61247.2024.00018](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}
+
+  - Landry, L., **Lucas, M.M.**, Andy, A., Nwafor, E. (2024).  
+  *Artificial intelligence–assisted curation of population groups in biomedical literature.*  
+  **International Journal of Digital Curation**, 18(1).  
+  *(Peer-reviewed conference paper published in a journal issue)*.
+  [DOI: 10.2218/ijdc.v18i1.950](https://doi.org/10.2218/ijdc.v18i1.950){:target="_blank"}
 
 ### 2023
 - **Lucas, M.M.**, Chang, C.-H., Yang, C.C. (2023).  
