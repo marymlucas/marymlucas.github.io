@@ -15,7 +15,7 @@ redirect_from:
 ## Peer-Reviewed Journal Articles
 
 ### 2025
-- Nikita, N., Tran, T.D., Yang, C.C., *et al.*, **Lucas, M.M.** (2025).  
+- Nikita, N., Tran, T.D., Yang, C.C., ..., **Lucas, M.M.**, *et al.* (2025).  
   *Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race.*  
   **Journal of Geriatric Oncology**, 16(8), Supplement, 102504.  
   *(Extended abstract; conference proceedings).*  
