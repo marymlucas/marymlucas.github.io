@@ -35,24 +35,24 @@ I contribute to the scientific community through editorial service, peer and gra
 
 ## Conference Leadership & Organization
 
-**Co-Chair, Special Session (JHIR Track)** | IEEE International Conference on Healthcare Informatics (ICHI) | 2024  
+**Co-Chair, Special Session (JHIR Track)** - IEEE International Conference on Healthcare Informatics (ICHI) - 2024  
 
 **Organizing Committee Member**  
-- *First Workshop on Applying Large Language Models in LMICs for Healthcare Solutions* | IEEE ICHI 2024  
-- *Women in Healthcare Informatics Event* | IEEE ICHI 2024
+- *First Workshop on Applying Large Language Models in LMICs for Healthcare Solutions* - IEEE ICHI 2024  
+- *Women in Healthcare Informatics Event* - IEEE ICHI 2024
 
 ---
 
 ## Community & Outreach
 
-**Event Organizer** | DataPhilly Meetup (5,000+ member data science community) | Philadelphia, PA | 2019–2020  
+**Event Organizer** - DataPhilly Meetup (5,000+ member data science community), Philadelphia PA - 2019–2020  
 - Organized technical talks and community events fostering cross-disciplinary exchange among data scientists, engineers, and researchers.
 
 ---
 
 ## Institutional Service
 
-**Curriculum Committee Member** | Undergraduate Information Science Program | Drexel University | 2025  
+**Curriculum Committee Member** - Undergraduate Information Science Program, Drexel University - 2025  
 - Contributed to curriculum review and program development for undergraduate information science education.
 
 ---
@@ -60,10 +60,10 @@ I contribute to the scientific community through editorial service, peer and gra
 ## Professional Affiliations
 
 **Professional Societies**
-- Member — [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} | 2022–Present
-- Student Member — [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} | 2025–Present
-- Student Member — [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} | 2022–Present
+- Member — [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} - 2022–Present
+- Student Member — [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} - 2025–Present
+- Student Member — [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} - 2022–Present
 
 **Research Consortia & Networks**
-- Associate Member — [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} | 2023–Present
-- Member — [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} | 2024–Present
+- Associate Member — [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} - 2023–Present
+- Member — [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} - 2024–Present
