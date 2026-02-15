@@ -60,10 +60,10 @@ I contribute to the scientific community through editorial service, peer and gra
 ## Professional Affiliations
 
 **Professional Societies**
-- Member — [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} - 2022–Present
-- Student Member — [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} - 2025–Present
-- Student Member — [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} - 2022–Present
+- Member - [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} - 2022–Present
+- Student Member - [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} - 2025–Present
+- Student Member - [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} - 2022–Present
 
 **Research Consortia & Networks**
-- Associate Member — [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} - 2023–Present
-- Member — [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} - 2024–Present
+- Associate Member - [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} - 2023–Present
+- Member - [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} - 2024–Present
