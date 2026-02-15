@@ -5,6 +5,25 @@ permalink: /lets-connect/
 author_profile: true
 ---
 
+I welcome connections related to research collaboration, interdisciplinary projects, speaking opportunities, and professional inquiries in clinical AI, health informatics, and trustworthy machine learning.
+
+<i class="fas fa-envelope"></i> **Email:** your_email@domain.com  
+
+<i class="fab fa-linkedin"></i> **LinkedIn:**  
+https://www.linkedin.com/in/marymlucas  
+
+<i class="fas fa-file-pdf"></i> **CV:**  
+[Download PDF](/files/Mary_Lucas_CV-2026.pdf)
+
+
+
+- <i class="fas fa-envelope"></i> your_email@domain.com  
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/marymlucas)  
+- <i class="fas fa-file-pdf"></i> [CV (PDF)](/files/Mary_Lucas_CV-2026.pdf)
+
+
+
+
 
 Please reach out to connect via [LinkedIn](https://www.linkedin.com/in/marymlucas/){:target="_blank"} or by email: **mary** [dot] **m** [dot] **lucas** [at] **drexel** [dot] **edu**.
 
