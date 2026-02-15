@@ -5,39 +5,65 @@ permalink: /professional-service/
 author_profile: true
 ---
 
+I contribute to the scientific community through editorial service, peer and grant review, conference leadership, and institutional engagement. My service activities emphasize rigor, equity, and interdisciplinary collaboration within health informatics, clinical AI, and data science.
 
-## Ongoing
+---
 
-- Managing Editor, [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"} (2022 - present)
+## Editorial Service
 
-## Peer Review
-- ### Journals
-    - [Journal of the American Medical Informatics Association](https://amia.org/news-publications/journals/jamia){:target="_blank"}
-    - [Journal of Healthcare Informatics Research](https://www.springer.com/journal/41666){:target="_blank"}
-    - [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management){:target="_blank"}
-    
-- ### Conferences
-    - [14th IEEE International Conference on Healthcare Informatics (ICHI)](https://zhang-informatics.github.io/ICHI2026/index.html){:target="_blank"} (2026)
+**Managing Editor** | *Journal of Healthcare Informatics Research* | 2022–Present  
+- Support editorial workflows and journal operations.  
+- Contribute to maintaining high standards for methodological rigor and interdisciplinary scholarship in health informatics.
 
-## Scientific Review
+---
 
-- Scientific Reviewer: [NIH AIM-AHEAD Fellowships](https://www.aim-ahead.net/){:target="_blank"} (2024, 2025)
-- Scientific Reviewer: [NIH AIM-AHEAD Training Programs](https://www.aim-ahead.net/programs/){:target="_blank"} (2023, 2024)
+## Scientific & Grant Review
 
-## Committees and Events
-- Student member: Information Science Undergraduate Curriculum Committee [Drexel College of Computing and Informatics](https://drexel.edu/cci/){:target="_blank"} (2025)
+**Reviewer** | NIH AIM-AHEAD Consortium — Fellowships & Training Programs | 2023–2025  
+- Reviewed fellowship and training applications supporting equitable participation in AI and health data science research.
 
-- Co-Chair: [JHIR](https://www.springer.com/journal/41666){:target="_blank"} Special Session, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+**Ad Hoc Peer Reviewer — Journals**  
+- *Journal of the American Medical Informatics Association (JAMIA)*  
+- *Information Processing and Management*  
+- *Journal of Healthcare Informatics Research (JHIR)*
 
-- Member, Organizing Committee: [The First Workshop on Applying LLMs in LMICs for Healthcare Solutions](https://www.nivi.io/all4health){:target="_blank"}, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+**Ad Hoc Peer Reviewer — Conferences**  
+- IEEE International Conference on Healthcare Informatics (ICHI) — 2026  
+- European Conference on Computer-Supported Cooperative Work (ECSCW) — 2026
 
-- Member, Organizing Committee: Women in Healthcare Informatics Event, for the [12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io/){:target="_blank"} (2024)
+---
 
-- Event Organizer: [DataPhilly (Data Science Philadelphia Meetup Group)](https://www.meetup.com/DataPhilly/){:target="_blank"} (2019-2020)
+## Conference Leadership & Organization
 
-## Professional / Research Organization Memberships
-- Member - [AMIA](https://amia.org/){:target="_blank"} (2022 - Present)
-- Associate Member - [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} (2023 - Present)
-- Member - [CARG](https://www.mycarg.org/){:target="_blank"} (2024 - Present)
-- Student Member - [ASA](https://www.amstat.org/){:target="_blank"} (2025 - Present)
-- Student Member - [ACM](https://www.acm.org/){:target="_blank"} (2022 - Present)
+**Co-Chair, Special Session (JHIR Track)** | IEEE International Conference on Healthcare Informatics (ICHI) | 2024  
+
+**Organizing Committee Member**  
+- *First Workshop on Applying Large Language Models in LMICs for Healthcare Solutions* | IEEE ICHI 2024  
+- *Women in Healthcare Informatics Event* | IEEE ICHI 2024
+
+---
+
+## Community & Outreach
+
+**Event Organizer** | DataPhilly Meetup (5,000+ member data science community) | Philadelphia, PA | 2019–2020  
+- Organized technical talks and community events fostering cross-disciplinary exchange among data scientists, engineers, and researchers.
+
+---
+
+## Institutional Service
+
+**Curriculum Committee Member** | Undergraduate Information Science Program | Drexel University | 2025  
+- Contributed to curriculum review and program development for undergraduate information science education.
+
+---
+
+## Professional Affiliations
+
+**Professional Societies**
+- Member — [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} | 2022–Present
+- Student Member — [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} | 2025–Present
+- Student Member — [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} | 2022–Present
+
+**Research Consortia & Networks**
+- Associate Member — [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} | 2023–Present
+- Member — [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} | 2024–Present
