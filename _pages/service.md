@@ -11,7 +11,7 @@ I contribute to the scientific community through editorial service, peer and gra
 
 ## Editorial Service
 
-**Managing Editor** | *Journal of Healthcare Informatics Research* | 2022–Present  
+**Managing Editor** | *Journal of Healthcare Informatics Research* | 2022-Present  
 - Support editorial workflows and journal operations.  
 - Contribute to maintaining high standards for methodological rigor and interdisciplinary scholarship in health informatics.
 
@@ -19,17 +19,17 @@ I contribute to the scientific community through editorial service, peer and gra
 
 ## Scientific & Grant Review
 
-**Reviewer** | NIH AIM-AHEAD Consortium — Fellowships & Training Programs | 2023–2025  
+**Reviewer** | NIH AIM-AHEAD Consortium - Fellowships & Training Programs | 2023-2025  
 - Reviewed fellowship and training applications supporting equitable participation in AI and health data science research.
 
-**Ad Hoc Peer Reviewer — Journals**  
+**Ad Hoc Peer Reviewer - Journals**  
 - *Journal of the American Medical Informatics Association (JAMIA)*  
 - *Information Processing and Management*  
 - *Journal of Healthcare Informatics Research (JHIR)*
 
-**Ad Hoc Peer Reviewer — Conferences**  
-- IEEE International Conference on Healthcare Informatics (ICHI) — 2026  
-- European Conference on Computer-Supported Cooperative Work (ECSCW) — 2026
+**Ad Hoc Peer Reviewer - Conferences**  
+- IEEE International Conference on Healthcare Informatics (ICHI) - 2026  
+- European Conference on Computer-Supported Cooperative Work (ECSCW) - 2026
 
 ---
 
@@ -45,7 +45,7 @@ I contribute to the scientific community through editorial service, peer and gra
 
 ## Community & Outreach
 
-**Event Organizer** - DataPhilly Meetup (5,000+ member data science community), Philadelphia PA - 2019–2020  
+**Event Organizer** - DataPhilly Meetup (5,000+ member data science community), Philadelphia PA - 2019-2020  
 - Organized technical talks and community events fostering cross-disciplinary exchange among data scientists, engineers, and researchers.
 
 ---
@@ -60,10 +60,10 @@ I contribute to the scientific community through editorial service, peer and gra
 ## Professional Affiliations
 
 **Professional Societies**
-- Member - [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} - 2022–Present
-- Student Member - [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} - 2025–Present
-- Student Member - [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} - 2022–Present
+- Member - [American Medical Informatics Association (AMIA)](https://amia.org/){:target="_blank"} - 2022-Present
+- Student Member - [American Statistical Association (ASA)](https://www.amstat.org/){:target="_blank"} - 2025-Present
+- Student Member - [Association for Computing Machinery (ACM)](https://www.acm.org/){:target="_blank"} - 2022-Present
 
 **Research Consortia & Networks**
-- Associate Member - [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} - 2023–Present
-- Member - [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} - 2024–Present
+- Associate Member - [ECOG-ACRIN Cancer Research Group](https://ecog-acrin.org/){:target="_blank"} - 2023-Present
+- Member - [Cancer and Aging Research Group (CARG)](https://www.mycarg.org/){:target="_blank"} - 2024-Present
