@@ -32,7 +32,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 ## Core Focus Areas
 
 - **Health AI & Predictive Modeling**  
-  Developing robust predictive models for clinical decision support using multi-modal health data.
+  Developing robust predictive models for clinical decision support using multi-modal health data, with emphasis on uncertainty quantification for safe and reliable deployment.
 
 - **Algorithmic Fairness & Bias**  
   Designing novel frameworks to detect, quantify, and mitigate bias in high-stakes clinical AI systems.
