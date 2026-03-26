@@ -15,10 +15,15 @@ redirect_from:
 
 ## Graduate Teaching Assistant | Drexel University | 2025-Present
 
-- **INFO 102 - Introduction to Information Systems**
-    - Support instruction on data and information flow, organizational use of technology, and core info management principles.
-    - Guide students in applying information science concepts to real-world problems.
-    - Provided timely feedback on assignments and facilitate student engagement.
+**Courses supported:**
+
+- INFO 102 - Introduction to Information Systems
+
+**Contributions:**
+
+- Support instruction on data and information flow, organizational use of technology, and core info management principles.
+- Guide students in applying information science concepts to real-world problems.
+- Provided timely feedback on assignments and facilitate student engagement.
 
 
 ## Graduate Teaching Assistant | Boston University (Metropolitan College) | 2021-Present
