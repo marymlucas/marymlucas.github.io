@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## Instructor of Record | Drexel University, College of Computing & Informatics | 2024-2025
-
-- Designed and delivered the graduate capstone course *INFO 896: Health Informatics Experience*, guiding students from topic development to final research deliverables.
-- Mentored master’s students through research methodology, data analysis, and presentation preparation aligned with current industry standards.
-- Provided individualized feedback on project proposals, code implementation, and technical writing, resulting in high student satisfaction and successful project completions.
+ - *INFO 896: Health Informatics Experience* - Spring 2024-2025
+    - Designed and delivered the graduate health informatics capstone course, guiding students from topic development to final research deliverables.
+    - Mentored master’s students through research methodology, data analysis, and presentation preparation aligned with current industry standards.
+    - Provided individualized feedback on project proposals, code implementation, and technical writing, resulting in high student satisfaction and successful project completions.
 
 ## Graduate Teaching Assistant | Drexel University | 2025-Present
 

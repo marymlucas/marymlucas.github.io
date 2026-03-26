@@ -28,6 +28,7 @@ I contribute to the scientific community through editorial service, peer and gra
 - *Journal of Healthcare Informatics Research (JHIR)*
 
 **Ad Hoc Peer Reviewer - Conferences**  
+- AMIA 2026 Annual Symposium
 - IEEE International Conference on Healthcare Informatics (ICHI) - 2026  
 - European Conference on Computer-Supported Cooperative Work (ECSCW) - 2026
 
