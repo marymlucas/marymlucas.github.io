@@ -7,8 +7,13 @@ redirect_from:
   - /teaching/research.md
 ---
 
-## Instructor of Record | Drexel University, College of Computing & Informatics | 2024-2025
- - **INFO 896: Health Informatics Experience** - Spring 2024-2025
+## Instructor of Record | Drexel University, College of Computing & Informatics | 2024-Presemt
+ - **INFO 620: Systems Analysis and Design** - Spring 2026
+    - Teach graduate-level systems analysis and design, covering object-oriented analysis, UML modeling, and iterative development.
+    - Deliver course across cross-listed in-person and asynchronous online modalities.
+    - Guide student teams through a quarter-long systems analysis project emphasizing iterative deliverables and professional documentation.
+    
+- **INFO 896: Health Informatics Experience** - Spring 2025
     - Designed and delivered the graduate health informatics capstone course, guiding students from topic development to final research deliverables.
     - Mentored master’s students through research methodology, data analysis, and presentation preparation aligned with current industry standards.
     - Provided individualized feedback on project proposals, code implementation, and technical writing, resulting in high student satisfaction and successful project completions.
