@@ -31,7 +31,7 @@ redirect_from:
 - Provided timely feedback on assignments and facilitate student engagement.
 
 
-## Graduate Teaching Assistant | Boston University (Metropolitan College) | 2021-Present
+## Course Facilitator | Boston University (Metropolitan College) | 2021-Present
 
 **Courses supported:**
 
