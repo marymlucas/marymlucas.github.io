@@ -66,7 +66,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 
 ### Clinical NLP & Large Language Model Evaluation
 
-- Developed **Ensemble Reasoning**, an iterative prompting framework that improved medical question-answering accuracy and consistency on USMLE datasets (+3-5%) across both closed (GPT-4) and open-source clinical LLMs ([JAMIA](https://academic.oup.com/jamia/article/31/9/1964/7705627){:target="_blank"}).
+- Developed **EnsReas**, an iterative prompting framework that improved medical question-answering accuracy and consistency on USMLE datasets (+3-5%) across both closed (GPT-4) and open-source clinical LLMs ([JAMIA](https://academic.oup.com/jamia/article/31/9/1964/7705627){:target="_blank"}).
 - Applied open-source clinical LLMs to extract **pathologic TNM cancer stage** from real-world pathology reports without labeled training data, demonstrating that prompting and ensemble-based reasoning can achieve competitive performance and improved consistency relative to fine-tuned BERT baselines ([AIME 2024](https://doi.org/10.1007/978-3-031-66538-7_23){:target="_blank"}, [IEEE ICHI 2024](https://ieeexplore.ieee.org/document/10628943){:target="_blank"}).
 - Designed and evaluated an LLM-assisted pipeline to automate extraction of population demographics from biomedical literature, enabling scalable equity analysis ([International Journal of Digital Curation](https://ijdc.net/index.php/ijdc/article/view/950){:target="_blank"}).
 
