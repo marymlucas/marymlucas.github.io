@@ -26,7 +26,7 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ### 2026
 - June 2026:
-  - My collaborators and I have an invited commentary, “*Whose Federation? Epistemic Closure, Community Exclusion, and the Political Economy of Federated Learning*,” accepted at the American Journal of Bioethics.
+  - My collaborators and I have an invited commentary, “*Whose Federation? Epistemic Closure, Community Exclusion, and the Political Economy of Federated Learning*,” accepted at [The American Journal of Bioethics](https://www.tandfonline.com/journals/uajb20){:target="_blank"}
 - January 2026:
   - Manuscript accepted to the [14th IEEE International Conference on Health Informatics (IEEE ICHI 2026)](https://zhang-informatics.github.io/ICHI2026/index.html){:target="_blank"}, Minneapolis, MN.
 
