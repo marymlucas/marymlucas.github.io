@@ -42,7 +42,7 @@ redirect_from:
 ## Peer-Reviewed Conference & Workshop Papers
 
 ### 2026
-**Lucas, M.M.** and Yang C.C. (2026), *Explaining Fairness Enhancement with Collaborative Learning for Prediction of Treatment Completion in Patients with Substance Use Disorder.* Proceedings of the IEEE International Conference on Healthcare Informatics 2026 (ICHI 2026), Minneapolis, MN, June 1 – 4, 2026.
+- **Lucas, M.M.** and Yang C.C. (2026), *Explaining Fairness Enhancement with Collaborative Learning for Prediction of Treatment Completion in Patients with Substance Use Disorder.* Proceedings of the IEEE International Conference on Healthcare Informatics 2026 (ICHI 2026), Minneapolis, MN, June 1 – 4, 2026.
 [DOI:Pending](/_pages/research/publications.md)
 
 ### 2025
