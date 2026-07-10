@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Research Philosophy
-My work is grounded in pragmatic innovation. I focus on advancing methodological research in applied artificial intelligence, with an emphasis on fairness, robustness, and equity. My goal is to bridge cutting-edge AI methods with real-world clinical impact by developing solutions that improve decision-making, reduce disparities, and meaningfully benefit patients and communities.
+My work is grounded in pragmatic innovation. I focus on advancing methodological research in applied artificial intelligence, with an emphasis on model evaluation, fairness, and uncertainty quantification. My goal is to bridge cutting-edge AI methods with real-world clinical impact by developing frameworks that assess when AI systems are trustworthy enough to inform patient care, and identify where they fall short for specific populations and individual patients. This work is ultimately in service of ensuring that the benefits of clinical AI reach all patients and communities equitably.
 
 ---
 
