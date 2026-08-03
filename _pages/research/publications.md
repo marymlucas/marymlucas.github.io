@@ -16,7 +16,8 @@ redirect_from:
 
 ## 2026
 - Acevedo, H., AL-Louzi, R., Celi, L.A., Chowdhury, M., Hernandez-Boussard, T., Hendl, T., Kabede, A.A., **Lucas, M.M.**, & Savary, M. (2026).
-  *Whose federation? Epistemic closure, community exclusion, and the political economy of federated learning.* **The American Journal of Bioethics**, 26(8), 133–136.
+  *Whose federation? Epistemic closure, community exclusion, and the political economy of federated learning.* 
+  **The American Journal of Bioethics**, 26(8), 133–136.
   *(Invited commentary)*
   [DOI: 10.1080/15265161.2026.2690955](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2690955){:target="_blank"}
 
