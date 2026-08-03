@@ -14,6 +14,12 @@ redirect_from:
 
 ## Peer-Reviewed Journal Articles
 
+## 2026
+- Acevedo, H., AL-Louzi, R., Celi, L.A., Chowdhury, M., Hernandez-Boussard, T., Hendl, T., Kabede, A.A., **Lucas, M.M.**, & Savary, M. (2026).
+  *Whose federation? Epistemic closure, community exclusion, and the political economy of federated learning.* **The American Journal of Bioethics**, 26(8), 133–136.
+  *(Invited commentary)*
+  [DOI: 10.1080/15265161.2026.2690955](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2690955){:target="_blank"}
+
 ### 2025
 - Nikita, N., Tran, T.D., Yang, C.C., ..., **Lucas, M.M.**, *et al.* (2025).  
   *Early unplanned hospitalization risk after novel hormonal therapy initiation in metastatic prostate cancer: Impact of disease type, treatment, and race.*  
