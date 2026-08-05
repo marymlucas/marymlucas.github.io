@@ -93,6 +93,11 @@ redirect_from:
 
 ## Posters & Presentations
 
+- **Lucas, M.M.** (2026).
+  *Beyond aggregate metrics: Evaluating tabular foundation models for sepsis mortality prediction across admission trajectory subgroups.*
+  **HITI Lab Symposium 2026 (Health AI Datathon ’26)**, Emory University, Atlanta, Georgia.
+  [DOI: 10.5281/zenodo.21809793](https://doi.org/10.5281/zenodo.21809793)
+
 - **Lucas, M.M.**, Yang, C.C., Schootman, M. (2023).  
   *Investigating health disparities and AI bias in CKD prediction models.*  
   **NIH AIM-AHEAD Annual Meeting**, Rockville, MD.  
