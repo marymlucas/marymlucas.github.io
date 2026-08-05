@@ -14,7 +14,7 @@ redirect_from:
 
 ## Peer-Reviewed Journal Articles
 
-## 2026
+### 2026
 - Acevedo, H., AL-Louzi, R., Celi, L.A., Chowdhury, M., Hernandez-Boussard, T., Hendl, T., Kabede, A.A., **Lucas, M.M.**, & Savary, M. (2026).
   *Whose federation? Epistemic closure, community exclusion, and the political economy of federated learning.* 
   **The American Journal of Bioethics**, 26(8), 133–136.
