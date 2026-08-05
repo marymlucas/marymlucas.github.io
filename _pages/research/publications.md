@@ -95,8 +95,19 @@ redirect_from:
 
 - **Lucas, M.M.** (2026).
   *Beyond aggregate metrics: Evaluating tabular foundation models for sepsis mortality prediction across admission trajectory subgroups.*
-  **HITI Lab Symposium 2026 (Health AI Datathon ’26)**, Emory University, Atlanta, Georgia.
+  **HITI Lab Symposium 2026 (Health AI Datathon ’26)**, Emory University, Atlanta, GA.
   [DOI: 10.5281/zenodo.21809793](https://doi.org/10.5281/zenodo.21809793)
+
+- Landry, L., Andy, A., Nwafor, E.& **Lucas, M.** (2026, February 18). 
+  *Towards Sustainable Curation: Evaluation of Cost and Accuracy of AI Tools in Scaling Annotation Tasks in Curation of Biomedical Literature.* 
+  **20th International Digital Curation Conference (IDCC26)**, Zagreb, Croatia. 
+  [DOI: 10.5281/zenodo.18924441] (https://doi.org/10.5281/zenodo.18924441)
+
+- Landry, L., Andy, A., Nwafor, E.& **Lucas, M.** (2026). 
+  *Expanding the Understanding of Population Descriptors for Biomedical Research to Low- and Middle-Income Countries (LMIC) - Corpora Development.* 
+  **20th International Digital Curation Conference (IDCC26)**, Zagreb, Croatia. 
+  [DOI: 10.5281/zenodo.18864397](https://doi.org/10.5281/zenodo.18864397)
+
 
 - **Lucas, M.M.**, Yang, C.C., Schootman, M. (2023).  
   *Investigating health disparities and AI bias in CKD prediction models.*  
