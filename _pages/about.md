@@ -27,11 +27,13 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 ### 2026
 - August 2026
   - Successfully defended my doctoral dissertation
-July 2026:
+- July 2026:
   - Presented a poster, “*Beyond Aggregate Metrics: Evaluating Tabular Foundation Models for Sepsis Mortality Prediction Across Admission Trajectory Subgroups*” at the [HITI Lab Symposium 2026 (Health AI Datathon ’26)](https://www.datathon.org/), Emory University, Atlanta, GA.
   - Manuscript "*SAKSHI: A Community-Operated Investigative Platform for Accountability in Clinical AI Deployment*" accepted to the [DAIH Workshop at COLM 2026.](https://daih2026.github.io/){:target="_blank"}
 - June 2026:
   - Invited commentary with collaborators, “*Whose Federation? Epistemic Closure, Community Exclusion, and the Political Economy of Federated Learning*,” accepted for publication in [The American Journal of Bioethics](https://www.tandfonline.com/journals/uajb20){:target="_blank"}
+- February 2026:
+  - Two collaborative posters accepted to and presented at the [20th International Digital Curation Conference (IDCC 2026)](https://www.dcc.ac.uk/events/idcc26){:target="_blank"}, Zagreb, Croatia.
 - January 2026:
   - Manuscript accepted to the [14th IEEE International Conference on Health Informatics (IEEE ICHI 2026)](https://zhang-informatics.github.io/ICHI2026/index.html){:target="_blank"}, Minneapolis, MN.
 
