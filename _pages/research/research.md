@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 ## Research Philosophy
-My work is grounded in pragmatic innovation. I focus on advancing methodological research in applied artificial intelligence, with an emphasis on model evaluation, fairness, and uncertainty quantification. My goal is to bridge cutting-edge AI methods with real-world clinical impact by developing frameworks that assess when AI systems are trustworthy enough to inform patient care, and identify where they fall short for specific populations and individual patients. This work is ultimately in service of ensuring that the benefits of clinical AI reach all patients and communities equitably.
+My work is grounded in pragmatic innovation. I focus on advancing methodological research in applied artificial intelligence, with an emphasis on rigorous evaluation of predictive performance, fairness, and reliability under real-world conditions. My goal is to bridge cutting-edge AI methods with real-world clinical impact by developing frameworks that assess when AI systems are trustworthy enough to inform patient care, and identify where they fall short for specific populations and individual patients. This work is ultimately in service of ensuring that the benefits of clinical AI reach all patients and communities equitably.
 
 ---
 
 ## Current Research & Applied Work
 
 **Data Science Intern** | UPHS Data Science, PennDnA at Penn Medicine | 2026–Present
-  - Contribute to translational and applied AI, machine learning, and data science initiatives, including the development and evaluation of models, systems, and software and assessment of opportunity, feasibility, and governance.
+  - Contribute to translational and applied AI, machine learning, and data science initiatives, including the development and evaluation of models, systems, and software, with consideration of opportunity, feasibility, and governance.
 
 **Doctoral Research, Information Science** | Drexel University | PhD conferral September 5, 2026   
   - *Advisor*: Christopher C. Yang, PhD
