@@ -52,7 +52,7 @@ redirect_from:
 - **Lucas, M.M.** and Yang C.C. (2026).  
   *Explaining Fairness Enhancement with Collaborative Learning for Prediction of Treatment Completion in Patients with Substance Use Disorder.*  
   **IEEE ICHI 2026**, Minneapolis, MN.  
-  [DOI:Pending](https://marylucas.com/research/publications/)
+  [DOI: 10.1109/ICHI69079.2026.00016](https://doi.org/10.1109/ICHI69079.2026.00016){:target="_blank"}
   {:target="_blank"}
 
 ### 2025

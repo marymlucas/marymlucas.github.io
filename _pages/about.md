@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate and graduate research assistant at [Drexel University](https://drexel.edu/cci/){:target="_blank"} College of Computing and Informatics where I'm advised by [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group. 
+I am a Health AI researcher whose work focuses on the development, evaluation, and responsible application of artificial intelligence and machine learning in healthcare. I currently work as a Data Science Intern with the University of Pennsylvania Health System (UPHS) Data Science team, within PennDnA at Penn Medicine.
 
-My [research interests](/research/) and work lie at the intersection of artificial intelligence / machine learning and healthcare. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and in New Zealand.
+I have successfully defended my PhD dissertation at Drexel University’s College of Computing and Informatics, with degree conferral expected September 5, 2026. I conducted research under the guidance of [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group.
 
-Prior to venturing into the healthcare field I taught undergraduate and graduate level Physics, and hold a Master of Philosophy (MPhil) degree in Physics.
+My [research interests](/research/) include clinical decision support, responsible AI, model fairness, uncertainty, and the evaluation of AI systems for real-world healthcare settings. I bring to this work many years of clinical experience as a registered nurse in emergency and trauma settings in the US and New Zealand.
+
+Prior to entering healthcare, I taught undergraduate- and graduate-level physics and earned a Master of Philosophy (MPhil) degree in Physics.
+
 
 <p style="margin: 1.2em 0;">
   <a class="btn btn--primary btn--large"
@@ -26,6 +29,7 @@ Prior to venturing into the healthcare field I taught undergraduate and graduate
 
 ### 2026
 - August 2026
+  - Joined the UPHS Data Science team within PennDnA at Penn Medicine as a Data Science Intern
   - Successfully defended my doctoral dissertation
 - July 2026:
   - Presented a poster, “*Beyond Aggregate Metrics: Evaluating Tabular Foundation Models for Sepsis Mortality Prediction Across Admission Trajectory Subgroups*” at the [HITI Lab Symposium 2026 (Health AI Datathon ’26)](https://www.datathon.org/), Emory University, Atlanta, GA.
