@@ -66,7 +66,7 @@ My work is grounded in pragmatic innovation. I focus on advancing methodological
 
   - Evaluating tabular foundation models, including **TabPFN**, **TabICL**, and **TabFM**, against established machine learning approaches on real-world clinical prediction tasks, with emphasis on predictive performance, calibration, subgroup fairness, and uncertainty quantification.
   - Investigating the use of **conformal prediction and group-specific calibration** to characterize uncertainty and subgroup reliability, including whether foundation models provide more efficient and equitable prediction sets than conventional models.
-  - Initial evaluation on **MIMIC-IV sepsis mortality prediction** found tabular foundation models to be competitive with or outperform tuned classical baselines across multiple dimensions of clinical model performance and reliability. <br>*(Poster presented at the Emory HITI Lab Symposium 2026; manuscript in preparation)*
+  - Initial evaluation on **MIMIC-IV sepsis mortality prediction** found tabular foundation models to be competitive with or outperform tuned classical baselines across multiple dimensions of clinical model performance and reliability. <br>*([Poster](https://doi.org/10.5281/zenodo.21809793){:target="_blank"} presented at the Emory HITI Lab Symposium 2026; manuscript in preparation)*
 
 ---
 
