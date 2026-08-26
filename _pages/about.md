@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Health AI researcher whose work focuses on the development, evaluation, and responsible application of artificial intelligence and machine learning in healthcare. I currently work as a Data Science Intern with the University of Pennsylvania Health System (UPHS) Data Science team, within PennDnA at Penn Medicine.
+I am a Health AI researcher and data scientist whose work focuses on the development, evaluation, and responsible application of artificial intelligence and machine learning in healthcare. I currently work as a Data Science Intern with the University of Pennsylvania Health System (UPHS) Data Science team, within PennDnA at Penn Medicine.
 
 I have successfully defended my PhD dissertation at [Drexel University’s School of Computer and Information Sciences](https://drexel.edu/cci/){:target="_blank"} (formerly the College of Computing and Informatics), with degree conferral expected September 5, 2026. I conducted research under the guidance of [Prof Christopher Yang](http://cci.drexel.edu/faculty/cyang/){:target="_blank"} in the Health Informatics Research Group.
 
