@@ -25,9 +25,9 @@ Across this work, I am particularly interested in methods that make model limita
 --- 
 ## Doctoral Research
 **PhD, Information Science** | Drexel University | 2026   
-  - *Advisor*: Christopher C. Yang, PhD
-  - *Committee*: Quyen Ngo, PhD; Judy Wawira Gichoya, MD, MS; Bhupesh Shetty, PhD; Erjia Yan, PhD; Grace Lu-Yao, PhD
-  - *Dissertation*: *A Framework for Fair and Robust Clinical Risk Prediction through Collaborative Learning and Localized Uncertainty Quantification* ([DOI](https://doi.org/10.17918/00011542){:target="_blank"})
+  - **Advisor**: Christopher C. Yang, PhD
+  - **Committee**: Quyen Ngo, PhD; Judy Wawira Gichoya, MD, MS; Bhupesh Shetty, PhD; Erjia Yan, PhD; Grace Lu-Yao, PhD
+  - **Dissertation**: *A Framework for Fair and Robust Clinical Risk Prediction through Collaborative Learning and Localized Uncertainty Quantification* ([DOI](https://doi.org/10.17918/00011542){:target="_blank"})
 
 My doctoral research focused on the development of methods for fair and reliable clinical prediction. This work examined how subgroup fairness can be improved without substantially sacrificing predictive utility and how uncertainty can be characterized at the level of individual predictions rather than treated only as a population-level property.
 
