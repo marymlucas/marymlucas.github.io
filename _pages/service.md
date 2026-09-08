@@ -22,10 +22,11 @@ I contribute to the scientific community through editorial service, peer and gra
 **Reviewer** | NIH AIM-AHEAD Consortium - Fellowships & Training Programs | 2023-2025  
 - Reviewed fellowship and training applications supporting equitable participation in AI and health data science research.
 
-**Ad Hoc Peer Reviewer - Journals**  
+**Ad Hoc Peer Reviewer - Journals** 
 - *Journal of the American Medical Informatics Association (JAMIA)*  
 - *Information Processing and Management*  
 - *Journal of Healthcare Informatics Research (JHIR)*
+- *PLOS Digital Health*
 
 **Ad Hoc Peer Reviewer - Conferences**  
 - *AMIA 2026 Annual Symposium*

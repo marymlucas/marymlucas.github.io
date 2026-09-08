@@ -7,7 +7,7 @@ redirect_from:
   - /teaching/research.md
 ---
 
-## Instructor of Record | Drexel University, College of Computing & Informatics | 2024-Presemt
+## Instructor of Record | Drexel University, College of Computing & Informatics | 2024-2026
  - **INFO 620: Systems Analysis and Design** - Spring 2026
     - Teach graduate-level systems analysis and design, covering object-oriented analysis, UML modeling, and iterative development.
     - Deliver course across cross-listed in-person and asynchronous online modalities.
