@@ -31,7 +31,7 @@ Across this work, I am particularly interested in methods that make model limita
 
 My doctoral research focused on the development of methods for fair and reliable clinical prediction. This work examined how subgroup fairness can be improved without substantially sacrificing predictive utility and how uncertainty can be characterized at the level of individual predictions rather than treated only as a population-level property.
 
-Two central methodological contributions were a collaborative learning framework that treats demographic subgroups as distinct learning clients during model optimization and a localized conformal prediction framework that adapts uncertainty estimates to the difficulty of individual cases.
+Two central methodological contributions were a collaborative learning framework that treats patient subgroups as distinct learning clients during model optimization and a localized conformal prediction framework that adapts uncertainty estimates to the difficulty of individual cases.
 
 ---
 
