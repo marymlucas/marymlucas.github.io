@@ -18,7 +18,7 @@ redirect_from:
     - Mentored master’s students through research methodology, data analysis, and presentation preparation aligned with current industry standards.
     - Provided individualized feedback on project proposals, code implementation, and technical writing, resulting in high student satisfaction and successful project completions.
 
-## Graduate Teaching Assistant | Drexel University | 2025-Present
+## Graduate Teaching Assistant | Drexel University | 2025
 
 **Courses supported:**
 
