@@ -11,7 +11,9 @@ redirect_from:
 <!-- My work is grounded in pragmatic innovation. I focus on advancing methodological research in applied artificial intelligence, with an emphasis on rigorous evaluation of predictive performance, fairness, and reliability under real-world conditions. My goal is to bridge cutting-edge AI methods with real-world clinical impact by developing frameworks that assess when AI systems are trustworthy enough to inform patient care, and identify where they fall short for specific populations and individual patients. This work is ultimately in service of ensuring that the benefits of clinical AI reach all patients and communities equitably. -->
 
 My work is grounded in pragmatic innovation. I develop and evaluate applied artificial intelligence methods with an emphasis on predictive performance, fairness, uncertainty, and reliability under real-world conditions. My goal is to bridge methodological advances in AI with meaningful clinical application by asking not only whether a model performs well, but when its predictions are sufficiently trustworthy to inform patient care, for whom they work well, and where they fail.
+
 Across this work, I am particularly interested in methods that make model limitations visible rather than obscuring them behind aggregate performance metrics. Ultimately, my research aims to support clinical AI systems whose benefits extend equitably across patient populations while remaining useful and interpretable in practice.
+
 ---
 
 ## Current Research & Applied Work
@@ -28,7 +30,9 @@ Across this work, I am particularly interested in methods that make model limita
   - *Dissertation*: *A Framework for Fair and Robust Clinical Risk Prediction through Collaborative Learning and Localized Uncertainty Quantification* ([DOI](https://doi.org/10.17918/00011542){:target="_blank"})
 
 My doctoral research focused on the development of methods for fair and reliable clinical prediction. This work examined how subgroup fairness can be improved without substantially sacrificing predictive utility and how uncertainty can be characterized at the level of individual predictions rather than treated only as a population-level property.
+
 Two central methodological contributions were a collaborative learning framework that treats demographic subgroups as distinct learning clients during model optimization and a localized conformal prediction framework that adapts uncertainty estimates to the difficulty of individual cases.
+
 ---
 
 ## Funding & Fellowships
