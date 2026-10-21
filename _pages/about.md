@@ -17,22 +17,24 @@ My [research interests](/research/) include clinical decision support, responsib
 Prior to entering healthcare, I taught undergraduate- and graduate-level physics and earned a Master of Philosophy (MPhil) degree in Physics.
 
 
-<p style="margin: 1.2em 0;">
+<!-- <p style="margin: 1.2em 0;">
   <a class="btn btn--primary btn--large"
      href="{{ site.baseurl }}/files/Mary_Lucas_CV-2026.pdf"
      download>
      📄 Download my CV (PDF)
   </a>
-</p>
+</p> -->
 
 ## Updates
 
 ### 2026
+- October 2026
+  - Invited to give a presentation at the Joint [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} Advisory Panel session at ECOG-ACRIN Fall 2026 meeting.
 - August 2026
   - Joined the UPHS Data Science team within PennDnA at Penn Medicine as a Data Science Intern
   - Successfully defended my doctoral dissertation
 - July 2026:
-  - Presented a poster, “*Beyond Aggregate Metrics: Evaluating Tabular Foundation Models for Sepsis Mortality Prediction Across Admission Trajectory Subgroups*” at the [HITI Lab Symposium 2026 (Health AI Datathon ’26)](https://www.datathon.org/), Emory University, Atlanta, GA.
+  - Presented a poster, “*Beyond Aggregate Metrics: Evaluating Tabular Foundation Models for Sepsis Mortality Prediction Across Admission Trajectory Subgroups*” at the [HITI Lab Symposium 2026 (Health AI Datathon ’26)](https://www.datathon.org/){:target="_blank"}, Emory University, Atlanta, GA.
   - Manuscript "*SAKSHI: A Community-Operated Investigative Platform for Accountability in Clinical AI Deployment*" accepted to the [DAIH Workshop at COLM 2026.](https://daih2026.github.io/){:target="_blank"}
 - June 2026:
   - Invited commentary with collaborators, “*Whose Federation? Epistemic Closure, Community Exclusion, and the Political Economy of Federated Learning*,” accepted for publication in [The American Journal of Bioethics](https://www.tandfonline.com/journals/uajb20){:target="_blank"}
