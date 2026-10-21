@@ -29,7 +29,7 @@ Prior to entering healthcare, I taught undergraduate- and graduate-level physics
 
 ### 2026
 - October 2026
-  - Invited to give a presentation at the Joint [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} Advisory Panel session at ECOG-ACRIN Fall 2026 meeting.
+  - Delivered an invited talk at the Joint [ECOG-ACRIN](https://ecog-acrin.org/){:target="_blank"} - [National Medical Association (NMA)](https://nmanet.org/){:target="_blank"} Advisory Panel session at ECOG-ACRIN Fall 2026 meeting.
 - August 2026
   - Joined the UPHS Data Science team within PennDnA at Penn Medicine as a Data Science Intern
   - Successfully defended my doctoral dissertation

@@ -7,7 +7,7 @@ author_profile: true
 
 I welcome connections related to research collaboration, interdisciplinary projects, speaking opportunities, and professional inquiries in clinical AI, health informatics, and trustworthy machine learning.
 
-<i class="fas fa-envelope"></i> **Email:** mary.lucas [at] marylucas.com 
+<i class="fas fa-envelope"></i> **Email:** mary [at] marylucas.com 
 
 <i class="fab fa-linkedin"></i> **LinkedIn:**  [https://www.linkedin.com/in/marymlucas](https://www.linkedin.com/in/marymlucas){:target="_blank"}
 
